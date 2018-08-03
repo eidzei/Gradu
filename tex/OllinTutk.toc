@@ -2,28 +2,43 @@
 \contentsline {chapter}{\numberline {1}Introduction}{3}
 \contentsline {chapter}{\numberline {2}Phosphorus and Iron Cycling in the Aquatic System }{4}
 \contentsline {section}{\numberline {2.1}Soil as a Carrier of \ch {Fe} and \ch {P}}{4}
-\contentsline {section}{\numberline {2.2}\ch {Fe} Cycling in Sediment and Fate of \ch {P}}{4}
-\contentsline {section}{\numberline {2.3}The Effects of \ch {C}/\ch {Fe} Ratio}{4}
-\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{5}
-\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{5}
-\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{5}
-\contentsline {section}{\numberline {3.3}Transmission and Fluorescence}{5}
-\contentsline {chapter}{\numberline {4}Measurement setup}{6}
-\contentsline {section}{\numberline {4.1}Setup}{6}
-\contentsline {subsection}{\numberline {4.1.1}Monochromators}{6}
-\contentsline {subsection}{\numberline {4.1.2}Preparations for Anaerobic Samples}{6}
-\contentsline {chapter}{\numberline {5}Sample Preparation}{7}
-\contentsline {section}{\numberline {5.1}Reference Samples}{7}
-\contentsline {section}{\numberline {5.2}Samples}{7}
-\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{7}
-\contentsline {subsection}{\numberline {5.2.2}Slurries}{7}
-\contentsline {subsection}{\numberline {5.2.3}Anaerobic Slurries}{7}
-\contentsline {chapter}{\numberline {6}Results and Analysis}{8}
-\contentsline {section}{\numberline {6.1}Analysis}{8}
-\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{8}
-\contentsline {subsection}{\numberline {6.1.2}Data Modelling}{8}
-\contentsline {section}{\numberline {6.2}Measurement results}{8}
-\contentsline {subsection}{\numberline {6.2.1}Soil Samples}{8}
-\contentsline {subsection}{\numberline {6.2.2}Slurries}{8}
-\contentsline {subsection}{\numberline {6.2.3}Anaerobic Slurries}{8}
-\contentsline {chapter}{\numberline {7}Conclusion}{9}
+\contentsline {section}{\numberline {2.2}The Role of Sediment}{5}
+\contentsline {section}{\numberline {2.3}The Effects of \ch {C}/\ch {Fe} Ratio}{6}
+\contentsline {section}{\numberline {2.4}The Effects of Eroded Soil on Eutrophication}{6}
+\contentsline {section}{\numberline {2.5}The Sediment as a Research Interest}{9}
+\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{10}
+\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{10}
+\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{11}
+\contentsline {section}{\numberline {3.3}Transmission}{13}
+\contentsline {section}{\numberline {3.4}The XANES Section of the Spectrum}{13}
+\contentsline {subsection}{\numberline {3.4.1}Oxidation Number}{13}
+\contentsline {subsection}{\numberline {3.4.2}Multiple Scattering Events}{14}
+\contentsline {subsection}{\numberline {3.4.3}Bound States Transitions}{16}
+\contentsline {subsection}{\numberline {3.4.4}Multi-electron Transitions}{16}
+\contentsline {chapter}{\numberline {4}HelXAS}{17}
+\contentsline {section}{\numberline {4.1}Setup}{17}
+\contentsline {subsection}{\numberline {4.1.1}X-ray Source}{17}
+\contentsline {subsection}{\numberline {4.1.2}Monochromators}{17}
+\contentsline {subsection}{\numberline {4.1.3}Scintillator Detector}{19}
+\contentsline {subsection}{\numberline {4.1.4}Preparations for Anaerobic Samples}{19}
+\contentsline {subsection}{\numberline {4.1.5}Background Noise}{19}
+\contentsline {subsection}{\numberline {4.1.6}Measurement Procedure}{19}
+\contentsline {chapter}{\numberline {5}Sample Preparation}{21}
+\contentsline {section}{\numberline {5.1}Reference Samples}{21}
+\contentsline {section}{\numberline {5.2}Samples}{21}
+\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{21}
+\contentsline {subsection}{\numberline {5.2.2}Slurries}{21}
+\contentsline {subsection}{\numberline {5.2.3}Anaerobic Slurries}{23}
+\contentsline {subsection}{\numberline {5.2.4}The Affects of Agar}{23}
+\contentsline {chapter}{\numberline {6}Results and Analysis}{24}
+\contentsline {section}{\numberline {6.1}Analysis}{24}
+\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{24}
+\contentsline {subsection}{\numberline {6.1.2}Interpretation of the XANES-spectrum}{24}
+\contentsline {subsubsection}{Oxidation Number}{24}
+\contentsline {subsubsection}{Multiple Scattering Events}{25}
+\contentsline {subsubsection}{Binding Energy Shifts}{25}
+\contentsline {section}{\numberline {6.2}Measurement results}{25}
+\contentsline {subsection}{\numberline {6.2.1}Soil Samples}{25}
+\contentsline {subsection}{\numberline {6.2.2}Slurries}{25}
+\contentsline {subsection}{\numberline {6.2.3}Anaerobic Slurries}{25}
+\contentsline {chapter}{\numberline {7}Conclusion}{27}
