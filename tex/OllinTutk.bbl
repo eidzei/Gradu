@@ -1,0 +1,837 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{ymparisto}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {administration}{a.}%
+     {Finland's}{F.}%
+     {environmental}{e.}%
+     {}{}}%
+  }
+  \strng{namehash}{aFe1}
+  \strng{fullhash}{aFe1}
+  \field{sortinit}{A}
+  \field{title}{Algal bloom monitoring 12.7.2018}
+  \verb{url}
+  \verb http://www.ymparisto.fi/fi-FI/Vesi/Valtakunnallinen_levakatsaus_1272018
+  \verb _Sin(47369)
+  \endverb
+  \field{month}{07}
+  \field{year}{2018}
+\endentry
+
+\entry{Elements}{book}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Als-Nielsen}{A.-N.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{ANJ1}
+  \strng{fullhash}{ANJ1}
+  \field{sortinit}{A}
+  \verb{doi}
+  \verb 10.1002/9781119998365
+  \endverb
+  \field{title}{Elements of Modern X-Ray Physics}
+  \field{volume}{55}
+  \field{journaltitle}{Physics Today - PHYS TODAY}
+  \field{month}{01}
+  \field{year}{2002}
+\endentry
+
+\entry{LigandExchange}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Borggaard}{B.}%
+     {Ole}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Szilas}{S.}%
+     {Casper}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gimsing}{G.}%
+     {Anne}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Rasmussen}{R.}%
+     {Lars}{L.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{BO+1}
+  \strng{fullhash}{BOSCGARL1}
+  \field{sortinit}{B}
+  \verb{doi}
+  \verb 10.1016/S0016-7061(03)00183-6
+  \endverb
+  \field{pages}{55\bibrangedash 61}
+  \field{title}{Estimation of soil phosphate adsorption capacity by means of a
+  pedotransfer function}
+  \field{volume}{118}
+  \field{journaltitle}{Geoderma}
+  \field{month}{01}
+  \field{year}{2004}
+\endentry
+
+\entry{FeConcentration}{inbook}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Chesworth}{C.}%
+     {W.}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Mortvedt}{M.}%
+     {J.J.}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Cox}{C.}%
+     {F.R.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shuman}{S.}%
+     {L.M.}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Welch}{W.}%
+     {R.M.}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{publisher}{1}{%
+    {Soil Science Society of America Inc., Madison Wisconsin, USA}%
+  }
+  \strng{namehash}{CW+1}
+  \strng{fullhash}{CWMJCFSLWR1}
+  \field{sortinit}{C}
+  \field{chapter}{Geochemistry of micronutrients}
+  \field{pages}{1\bibrangedash 30}
+  \field{title}{Micronutrients in Aggriculture}
+  \field{year}{1991}
+\endentry
+
+\entry{Burial}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {D.~Ingall}{D.~I.}%
+     {Ellery}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bustin}{B.}%
+     {R.M.}{R.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Van~Cappellen}{V.~C.}%
+     {Philippe}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{DIEBRVCP1}
+  \strng{fullhash}{DIEBRVCP1}
+  \field{sortinit}{D}
+  \verb{doi}
+  \verb 10.1016/0016-7037(93)90433-W
+  \endverb
+  \field{pages}{303\bibrangedash 316}
+  \field{title}{Influence of water column anoxia on the burial and preservation
+  of carbon and phosphorus in marine shales}
+  \field{volume}{57}
+  \field{journaltitle}{Geochimica et Cosmochimica Acta}
+  \field{month}{01}
+  \field{year}{1993}
+\endentry
+
+\entry{SoilErosion}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ekholm}{E.}%
+     {Petri}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lehtoranta}{L.}%
+     {Jouni}{J.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EPLJ1}
+  \strng{fullhash}{EPLJ1}
+  \field{sortinit}{E}
+  \verb{doi}
+  \verb 10.1016/j.jenvman.2011.09.010
+  \endverb
+  \field{pages}{140\bibrangedash 6}
+  \field{title}{Does control of soil erosion inhibit aquatic eutrophication?}
+  \field{volume}{93}
+  \field{journaltitle}{Journal of environmental management}
+  \field{month}{01}
+  \field{year}{2012}
+\endentry
+
+\entry{Ellis1988}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Ellis}{E.}%
+     {Bonnie~K.}{B.~K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Stanford}{S.}%
+     {Jack~A.}{J.~A.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{EBKSJA1}
+  \strng{fullhash}{EBKSJA1}
+  \field{sortinit}{E}
+  \verb{doi}
+  \verb 10.1007/BF00014274
+  \endverb
+  \field{issn}{1573-5117}
+  \field{number}{1}
+  \field{pages}{9\bibrangedash 18}
+  \field{title}{Phosphorus bioavailability of fluvial sediments determined by
+  algal assays}
+  \verb{url}
+  \verb https://doi.org/10.1007/BF00014274
+  \endverb
+  \field{volume}{160}
+  \field{journaltitle}{Hydrobiologia}
+  \field{year}{1988}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{FDMNES}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {FDMNES}{F.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{F1}
+  \strng{fullhash}{F1}
+  \field{sortinit}{F}
+  \field{title}{The FDMNES project website}
+  \verb{url}
+  \verb http://neel.cnrs.fr/spip.php?rubrique1007&lang=en
+  \endverb
+\endentry
+
+\entry{Fertilization}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Hasler}{H.}%
+     {A.C.}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Einsele}{E.}%
+     {W.G.}{W.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{HAEW1}
+  \strng{fullhash}{HAEW1}
+  \field{sortinit}{H}
+  \field{pages}{527 \bibrangedash  555}
+  \field{title}{Fertilization for increasing productivity of natural inland
+  waters}
+  \field{volume}{13}
+  \field{journaltitle}{Trans. North. Amer. Wildr. Conf.}
+  \field{year}{1948}
+\endentry
+
+\entry{JILBERT2013155}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Jilbert}{J.}%
+     {Tom}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slomp}{S.}%
+     {Caroline~P.}{C.~P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{JTSCP1}
+  \strng{fullhash}{JTSCP1}
+  \field{sortinit}{J}
+  \verb{doi}
+  \verb https://doi.org/10.1016/j.gca.2013.01.005
+  \endverb
+  \field{issn}{0016-7037}
+  \field{pages}{155 \bibrangedash  169}
+  \field{title}{Iron and manganese shuttles control the formation of authigenic
+  phosphorus minerals in the euxinic basins of the Baltic Sea}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/S0016703713000264
+  \endverb
+  \field{volume}{107}
+  \field{journaltitle}{Geochimica et Cosmochimica Acta}
+  \field{year}{2013}
+\endentry
+
+\entry{LabileCarbon}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Lehtoranta}{L.}%
+     {Jouni}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ekholm}{E.}%
+     {Petri}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Wahlstr{\"o}m}{W.}%
+     {Stella}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tallberg}{T.}%
+     {Petra}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Uusitalo}{U.}%
+     {Risto}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LJ+1}
+  \strng{fullhash}{LJEPWSTPUR1}
+  \field{sortinit}{L}
+  \field{number}{2}
+  \field{pages}{263\bibrangedash 273}
+  \field{title}{Labile organic carbon regulates phosphorus release from eroded
+  soil transported into anaerobic coastal systems}
+  \field{volume}{44}
+  \field{journaltitle}{AMBIO}
+  \field{year}{2015}
+  \warn{\item Invalid format of field 'month'}
+\endentry
+
+\entry{AnalyzerCrystal}{article}{}
+  \name{author}{20}{}{%
+    {{}%
+     {Llorens}{L.}%
+     {Isabelle}{I.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lahera}{L.}%
+     {Eric}{E.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Delnet}{D.}%
+     {William}{W.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Proux}{P.}%
+     {Olivier}{O.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Braillard}{B.}%
+     {Aurélien}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hazemann}{H.}%
+     {Jean-Louis}{J.-L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Prat}{P.}%
+     {Alain}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Testemale}{T.}%
+     {Denis}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Dermigny}{D.}%
+     {Quentin}{Q.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Gelebart}{G.}%
+     {Frederic}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Morand}{M.}%
+     {Marc}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Shukla}{S.}%
+     {Abhay}{A.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bardou}{B.}%
+     {Nathalie}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Ulrich}{U.}%
+     {O}{O}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Arnaud}{A.}%
+     {Stéphan}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Berar}{B.}%
+     {Jean}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Boudet}{B.}%
+     {Nathalie}{N.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Caillot}{C.}%
+     {Bernard}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Chaurand}{C.}%
+     {Perrine}{P.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lorenzo~Solari}{L.~S.}%
+     {Pier}{P.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{LI+1}
+  \strng{fullhash}{LILEDWPOBAHJLPATDDQGFMMSABNUOASBJBNCBCPLSP1}
+  \field{sortinit}{L}
+  \verb{doi}
+  \verb 10.1063/1.4728414
+  \endverb
+  \field{pages}{063104}
+  \field{title}{High energy resolution five-crystal spectrometer for high
+  quality fluorescence and absorption measurements on an X-ray Absorption
+  Spectroscopy beamline}
+  \field{volume}{83}
+  \field{journaltitle}{The Review of scientific instruments}
+  \field{month}{06}
+  \field{year}{2012}
+\endentry
+
+\entry{FeOxides}{book}{}
+  \name{author}{2}{}{%
+    {{}%
+     {M.~S. U.~Cornell}{M.~S. U.~C.}%
+     {R}{R}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Schwertmann}{S.}%
+     {U}{U}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MSUCRSU1}
+  \strng{fullhash}{MSUCRSU1}
+  \field{sortinit}{M}
+  \verb{doi}
+  \verb 10.1002/3527602097
+  \endverb
+  \field{title}{The Iron Oxides: Structure, Properties, Reactions, Occurrences,
+  And Uses}
+  \field{volume}{34}
+  \field{journaltitle}{Clay Minerals - CLAY MINER}
+  \field{month}{01}
+  \field{year}{2003}
+\endentry
+
+\entry{Diagenetic}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {M\"arz}{M.}%
+     {Christian}{C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Hoffmann}{H.}%
+     {J}{J}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bleil}{B.}%
+     {U}{U}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lange}{L.}%
+     {Gert}{G.}%
+     {de}{d.}%
+     {}{}}%
+    {{}%
+     {Kasten}{K.}%
+     {Sabine}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MC+1}
+  \strng{fullhash}{MCHJBULGdKS1}
+  \field{sortinit}{M}
+  \verb{doi}
+  \verb 10.1016/j.margeo.2008.05.013
+  \endverb
+  \field{pages}{118\bibrangedash 130}
+  \field{title}{Diagenetic changes of magnetic and geochemical signals by
+  anaerobic methane oxidation in sediments of the Zambezi dee-sea fan (SW
+  Indian Ocean)}
+  \field{volume}{255}
+  \field{journaltitle}{Marine Geology}
+  \field{month}{12}
+  \field{year}{2008}
+\endentry
+
+\entry{Fundamentals}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Matthew}{M.}%
+     {Newville}{N.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{MN1}
+  \strng{fullhash}{MN1}
+  \field{sortinit}{M}
+  \field{title}{Fundamentals of XAFS}
+  \verb{url}
+  \verb https://web.archive.org/web/20110722032112/http://xafs.org/Tutorials?ac
+  \verb tion=AttachFile&do=view&target=Newville_xas_fundamentals.pdf
+  \endverb
+\endentry
+
+\entry{IronFlux}{article}{}
+  \name{author}{2}{}{%
+    {{}%
+     {Poulton}{P.}%
+     {S.W.}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Raiswell}{R.}%
+     {Rob}{R.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PSRR1}
+  \strng{fullhash}{PSRR1}
+  \field{sortinit}{P}
+  \verb{doi}
+  \verb 10.2475/ajs.302.9.774
+  \endverb
+  \field{title}{The low-temperature geochemical cycle of iron: From continental
+  fluxes to marine sediment deposition}
+  \field{volume}{302}
+  \field{journaltitle}{American Journal of Science}
+  \field{month}{11}
+  \field{year}{2002}
+\endentry
+
+\entry{IronSpeciation}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Prietzel}{P.}%
+     {J\"org}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Thieme}{T.}%
+     {Juergen}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eusterhues}{E.}%
+     {Karin}{K.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Eichert}{E.}%
+     {D}{D}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{PJ+1}
+  \strng{fullhash}{PJTJEKED1}
+  \field{sortinit}{P}
+  \verb{doi}
+  \verb 10.1111/j.1365-2389.2006.00882.x
+  \endverb
+  \field{pages}{1027 \bibrangedash  1041}
+  \field{title}{Iron speciation in soils and soil aggregates by
+  synchrotron-based X-ray microspectroscopy (XANES, micro-XANES)}
+  \field{volume}{58}
+  \field{journaltitle}{European Journal of Soil Science}
+  \field{month}{10}
+  \field{year}{2007}
+\endentry
+
+\entry{Vivianite}{article}{}
+  \name{author}{3}{}{%
+    {{}%
+     {Reed}{R.}%
+     {Daniel}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {G.~Gustafsson}{G.~G.}%
+     {Bo}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slomp}{S.}%
+     {C.P.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{RDGGBSC1}
+  \strng{fullhash}{RDGGBSC1}
+  \field{sortinit}{R}
+  \verb{doi}
+  \verb 10.1016/j.epsl.2015.11.033
+  \endverb
+  \field{title}{Shelf-to-basin iron shuttling enhances vivianite formation in
+  deep Baltic Sea sediments}
+  \field{volume}{434}
+  \field{journaltitle}{Earth and Planetary Science Letters}
+  \field{month}{12}
+  \field{year}{2015}
+\endentry
+
+\entry{VivSpectra}{article}{}
+  \name{author}{6}{}{%
+    {{}%
+     {Sulu-Gambari}{S.-G.}%
+     {F.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Seitaj}{S.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Behrens}{B.}%
+     {T.}{T.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Banerjee}{B.}%
+     {D.}{D.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Meyesman}{M.}%
+     {F.J.R.}{F.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Slomp}{S.}%
+     {C.P.}{C.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{SGF+1}
+  \strng{fullhash}{SGFSDBTBDMFSC1}
+  \field{sortinit}{S}
+  \field{title}{Impact of Cable Bacteria on Sedimentary Iron and Manganese
+  Dynamics in a Seasonally-Hypoxic Marine Basin}
+  \field{volume}{192}
+  \field{journaltitle}{Geochemica et Cosmochimica Acta}
+  \field{month}{11}
+  \field{year}{2016}
+\endentry
+
+\entry{Agriculture}{article}{}
+  \name{author}{5}{}{%
+    {{}%
+     {Ulén}{U.}%
+     {Barbro}{B.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bechmann}{B.}%
+     {Marianne}{M.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {F\"olster}{F.}%
+     {Jens}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Jarvie}{J.}%
+     {Helen}{H.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tunney}{T.}%
+     {Hubert}{H.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{UB+1}
+  \strng{fullhash}{UBBMFJJHTH1}
+  \field{sortinit}{U}
+  \verb{doi}
+  \verb 10.1111/j.1475-2743.2007.00115.x
+  \endverb
+  \field{pages}{5 \bibrangedash  15}
+  \field{title}{Agriculture as a phosphorus source for eutrophication in the
+  north-west European countries, Norway, Sweden, United Kingdom and Ireland: A
+  review}
+  \field{volume}{23}
+  \field{journaltitle}{Soil Use and Management}
+  \field{month}{08}
+  \field{year}{2007}
+\endentry
+
+\entry{samassa}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {vedessa}{v.}%
+     {Samassa}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{vS1}
+  \strng{fullhash}{vS1}
+  \field{sortinit}{V}
+  \field{title}{Maatalouden rehevoittava fosforikuormitus ja sen vahentaminen}
+  \verb{url}
+  \verb http://www.samassavedessa.fi/fi-FI
+  \endverb
+  \field{month}{11}
+  \field{year}{2018}
+\endentry
+
+\entry{helcom}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {website}{w.}%
+     {Baltic}{B.}%
+     {marine environment protection~commission}{m.~e. p.~c.}%
+     {}{}}%
+  }
+  \strng{namehash}{wBmepc1}
+  \strng{fullhash}{wBmepc1}
+  \field{sortinit}{W}
+  \field{title}{Nutrient inputs to the Baltic sea}
+  \verb{url}
+  \verb http://www.helcom.fi/baltic-sea-trends/eutrophication/inputs-of-nutrien
+  \verb ts/
+  \endverb
+\endentry
+
+\entry{wikipedia}{misc}{}
+  \name{author}{1}{}{%
+    {{}%
+     {Wikipedia}{W.}%
+     {}{}%
+     {}{}%
+     {}{}}%
+  }
+  \strng{namehash}{W1}
+  \strng{fullhash}{W1}
+  \field{sortinit}{W}
+  \field{title}{X-ray absorption spectroscopy article on wikipedia}
+  \verb{url}
+  \verb https://en.wikipedia.org/wiki/X-ray_absorption_spectroscopy
+  \endverb
+\endentry
+
+\entry{YOUNG1985434}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Young}{Y.}%
+     {Thomas~C.}{T.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {DePinto}{D.}%
+     {Joseph~V.}{J.~V.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Martin}{M.}%
+     {Scott~C.}{S.~C.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Bonner}{B.}%
+     {James~S.}{J.~S.}%
+     {}{}%
+     {}{}}%
+  }
+  \keyw{Bioassay, eutrophication, suspended solids, pollution sources}
+  \strng{namehash}{YTC+1}
+  \strng{fullhash}{YTCDJVMSCBJS1}
+  \field{sortinit}{Y}
+  \verb{doi}
+  \verb https://doi.org/10.1016/S0380-1330(85)71788-1
+  \endverb
+  \field{issn}{0380-1330}
+  \field{number}{4}
+  \field{pages}{434 \bibrangedash  446}
+  \field{title}{Algal-Available Particulate Phosphorus in the Great Lakes
+  Basin}
+  \verb{url}
+  \verb http://www.sciencedirect.com/science/article/pii/S0380133085717881
+  \endverb
+  \field{volume}{11}
+  \field{journaltitle}{Journal of Great Lakes Research}
+  \field{year}{1985}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput

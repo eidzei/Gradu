@@ -1,0 +1,309 @@
+@misc{helcom,
+      author = "Baltic marine environment protection commission website",
+      title = "Nutrient inputs to the Baltic sea",
+      url = "http://www.helcom.fi/baltic-sea-trends/eutrophication/inputs-of-nutrients/"
+}
+
+@misc{ymparisto,
+      author = "Finland's environmental administration",
+      title = "Algal bloom monitoring 12.7.2018",
+      month = "7",
+      year = "2018",
+      url = "http://www.ymparisto.fi/fi-FI/Vesi/Valtakunnallinen_levakatsaus_1272018_Sin(47369)"
+}
+
+@misc{samassa,
+      author = "Samassa vedessa",
+      title = "Maatalouden rehevoittava fosforikuormitus ja sen vahentaminen",
+      month = "11",
+      year = "2018",
+      url = "http://www.samassavedessa.fi/fi-FI"
+}
+
+@article{IronSpeciation,
+      author = {Prietzel, J\"org and Thieme, Juergen and Eusterhues, Karin and Eichert, D},
+      year = {2007},
+      month = {10},
+      pages = {1027 - 1041},
+      title = {Iron speciation in soils and soil aggregates by synchrotron-based X-ray microspectroscopy (XANES, micro-XANES)},
+      volume = {58},
+      journal = {European Journal of Soil Science},
+doi = {10.1111/j.1365-2389.2006.00882.x}
+}
+
+@inbook{FeConcentration,
+	author	= "Chesworth, W. and Mortvedt, J.J. and Cox, F.R. and Shuman, L.M. and Welch, R.M.",
+	year = {1991},
+	title	= "Micronutrients in Aggriculture",
+	chapter	= "Geochemistry of micronutrients",
+	pages	= "1-30",
+	publisher= "Soil Science Society of America Inc., Madison Wisconsin, USA"
+}
+
+@article{SoilErosion,
+      author = {Ekholm, Petri and Lehtoranta, Jouni},
+      year = {2012},
+      month = {01},
+      pages = {140-6},
+      title = {Does control of soil erosion inhibit aquatic eutrophication?},
+      volume = {93},
+      journal = {Journal of environmental management},
+doi = {10.1016/j.jenvman.2011.09.010}
+}
+
+@book{FeOxides,
+      author = {M. S. U. Cornell, R and Schwertmann, U},
+      year = {2003},
+      month = {01},
+      pages = {},
+      title = {The Iron Oxides: Structure, Properties, Reactions, Occurrences, And Uses},
+      volume = {34},
+      journal = {Clay Minerals - CLAY MINER},
+      doi = {10.1002/3527602097}
+}
+
+@article{LigandExchange,
+author = {Borggaard, Ole and Szilas, Casper and Gimsing, Anne and Rasmussen, Lars},
+year = {2004},
+month = {01},
+pages = {55-61},
+title = {Estimation of soil phosphate adsorption capacity by means of a pedotransfer function},
+volume = {118},
+journal = {Geoderma},
+doi = {10.1016/S0016-7061(03)00183-6}
+}
+
+@article{IronFlux,
+author = {Poulton, S.W. and Raiswell, Rob},
+year = {2002},
+month = {11},
+pages = {},
+title = {The low-temperature geochemical cycle of iron: From continental fluxes to marine sediment deposition},
+volume = {302},
+journal = {American Journal of Science},
+doi = {10.2475/ajs.302.9.774}
+}
+
+@article{Agriculture,
+author = {Ulén, Barbro and Bechmann, Marianne and F\"olster, Jens and Jarvie, Helen and Tunney, Hubert},
+year = {2007},
+month = {08},
+pages = {5 - 15},
+title = {Agriculture as a phosphorus source for eutrophication in the north-west European countries, Norway, Sweden, United Kingdom and Ireland: A review},
+volume = {23},
+journal = {Soil Use and Management},
+doi = {10.1111/j.1475-2743.2007.00115.x}
+}
+
+@Article{Ellis1988,
+author="Ellis, Bonnie K.
+and Stanford, Jack A.",
+title="Phosphorus bioavailability of fluvial sediments determined by algal assays",
+journal="Hydrobiologia",
+year="1988",
+month="Mar",
+day="01",
+volume="160",
+number="1",
+pages="9--18",
+issn="1573-5117",
+doi="10.1007/BF00014274",
+url="https://doi.org/10.1007/BF00014274"
+}
+
+@article{YOUNG1985434,
+title = "Algal-Available Particulate Phosphorus in the Great Lakes Basin",
+journal = "Journal of Great Lakes Research",
+volume = "11",
+number = "4",
+pages = "434 - 446",
+year = "1985",
+issn = "0380-1330",
+doi = "https://doi.org/10.1016/S0380-1330(85)71788-1",
+url = "http://www.sciencedirect.com/science/article/pii/S0380133085717881",
+author = "Thomas C. Young and Joseph V. DePinto and Scott C. Martin and James S. Bonner",
+keywords = "Bioassay, eutrophication, suspended solids, pollution sources"
+}
+
+@article{Fertilization,
+title = "Fertilization for increasing productivity of natural inland waters",
+journal = "Trans. North. Amer. Wildr. Conf.",
+volume = "13",
+pages = "527 - 555",
+year = "1948",
+author = "Hasler, A.C. and Einsele, W.G."
+}
+
+@Article{LabileCarbon,
+author="Lehtoranta, Jouni
+and Ekholm, Petri
+and Wahlstr{\"o}m, Stella
+and Tallberg, Petra
+and Uusitalo, Risto",
+title="Labile organic carbon regulates phosphorus release from eroded soil transported into anaerobic coastal systems",
+journal="AMBIO",
+year="2015",
+month="Mar",
+day="01",
+volume="44",
+number="2",
+pages="263--273"
+}
+
+@article{Burial,
+author = {D. Ingall, Ellery and Bustin, R.M. and Van Cappellen, Philippe},
+year = {1993},
+month = {01},
+pages = {303-316},
+title = {Influence of water column anoxia on the burial and preservation of carbon and phosphorus in marine shales},
+volume = {57},
+journal = {Geochimica et Cosmochimica Acta},
+doi = {10.1016/0016-7037(93)90433-W}
+}
+
+@article{Diagenetic,
+author = {M\"arz, Christian and Hoffmann, J and Bleil, U and de Lange, Gert and Kasten, Sabine},
+year = {2008},
+month = {12},
+pages = {118-130},
+title = {Diagenetic changes of magnetic and geochemical signals by anaerobic methane oxidation in sediments of the Zambezi dee-sea fan (SW Indian Ocean)},
+volume = {255},
+journal = {Marine Geology},
+doi = {10.1016/j.margeo.2008.05.013}
+}
+
+@article{JILBERT2013155,
+title = "Iron and manganese shuttles control the formation of authigenic phosphorus minerals in the euxinic basins of the Baltic Sea",
+journal = "Geochimica et Cosmochimica Acta",
+volume = "107",
+pages = "155 - 169",
+year = "2013",
+issn = "0016-7037",
+doi = "https://doi.org/10.1016/j.gca.2013.01.005",
+url = "http://www.sciencedirect.com/science/article/pii/S0016703713000264",
+author = "Tom Jilbert and Caroline P. Slomp"
+}
+
+@article{Vivianite,
+author = {Reed, Daniel and G. Gustafsson, Bo and Slomp, C.P.},
+year = {2015},
+month = {12},
+pages = {},
+title = {Shelf-to-basin iron shuttling enhances vivianite formation in deep Baltic Sea sediments},
+volume = {434},
+journal = {Earth and Planetary Science Letters},
+doi = {10.1016/j.epsl.2015.11.033}
+}
+
+@Article{Ros,
+AUTHOR = {Jilbert, T. and Asmala, E. and Schr\"oder, C. and Tiihonen, R. and Myllykangas, J.-P. and Virtasalo, J. J. and Kotilainen, A. and Peltola, P. and Ekholm, P. and Hietanen, S.},
+TITLE = {Impacts of flocculation on the distribution and diagenesis of iron in boreal estuarine sediments},
+JOURNAL = {Biogeosciences},
+VOLUME = {15},
+YEAR = {2018},
+NUMBER = {4},
+PAGES = {1243--1271},
+URL = {https://www.biogeosciences.net/15/1243/2018/},
+DOI = {10.5194/bg-15-1243-2018}
+}
+
+@book{Elements,
+author = {Als-Nielsen, J},
+year = {2002},
+month = {01},
+title = {Elements of Modern X-Ray Physics},
+volume = {55},
+journal = {Physics Today - PHYS TODAY},
+doi = {10.1002/9781119998365}
+}
+
+@article{AnalyzerCrystal,
+author = {Llorens, Isabelle and Lahera, Eric and Delnet, William and Proux, Olivier and Braillard, Aurélien and Hazemann, Jean-Louis and Prat, Alain and Testemale, Denis and Dermigny, Quentin and Gelebart, Frederic and Morand, Marc and Shukla, Abhay and Bardou, Nathalie and Ulrich, O and Arnaud, Stéphan and Berar, Jean and Boudet, Nathalie and Caillot, Bernard and Chaurand, Perrine and Lorenzo Solari, Pier},
+year = {2012},
+month = {06},
+pages = {063104},
+title = {High energy resolution five-crystal spectrometer for high quality fluorescence and absorption measurements on an X-ray Absorption Spectroscopy beamline},
+volume = {83},
+journal = {The Review of scientific instruments},
+doi = {10.1063/1.4728414}
+}
+
+@article{OpticAlignment,
+author = {Mortensen, Devon and Seidler, Gerald},
+year = {2016},
+month = {11},
+pages = {},
+title = {Robust optic alignment in a tilt-free implementation of the Rowland circle spectrometer},
+volume = {215},
+journal = {Journal of Electron Spectroscopy and Related Phenomena},
+doi = {10.1016/j.elspec.2016.11.006}
+}
+
+@misc{Fundamentals,
+      author = "Newville Matthew",
+      title = "Fundamentals of XAFS",
+      url = "https://web.archive.org/web/20110722032112/http://xafs.org/Tutorials?action=AttachFile&do=view&target=Newville_xas_fundamentals.pdf"
+}
+
+@misc{Hahn,
+     author = "Penner-Hahn, J.E.",
+     title = "X-ray Absorption Spectroscopy - University of Michigan",
+     url = "http://www.umich.edu/~jphgroup/XAS_Course/Harbin/CCC2_XAS.pdf"
+}
+
+@misc{Slac,
+     author = "Ritimukta Sarangi",
+     title = "{SSRL, SLAC Standford University, SRXAS Workshop lecture notes: Introduction to X-ray Absorption Near Edge Spectroscopy (XANES)}",
+     year = "2010",
+     month = "June",
+     url = "https://www-ssrl.slac.stanford.edu/conferences/workshops/srxas2011/presentations/sarangi_xanes_2011.pdf"
+}
+
+@misc{Ms,
+     author = "Bruce Ravel",
+     title = "A practical Introduction to Multiple Scattering Theory",
+     year = "2005"
+     url = "http://www.umich.edu/~jphgroup/XAS_Course/Harbin/CCC2_XAS.pdf"
+}
+
+@misc{Xas,
+     author = "Sinha, K.K.",
+     title = "Department of Physics and Astronomy, University of Nebraska-Lincoln, Lecture notes: X-ray Absorption Spectroscopy",
+     url = "https://xiaoshanxu.unl.edu/system/files/sites/unl.edu.cas.physics.xiaoshan-xu/files/private/2014_02_07_XAS_Kishan.pdf"
+}
+
+@misc{Vwr,
+     author = "Vwr",
+     title = "Agar product information",
+     url = "https://uk.vwr.com/store/product/2340690/vwrc20767"
+}
+
+@misc{Agar,
+     author = "AgarGel",
+     Title = "Agar-agar properties and specification",
+     url = "http://www.agargel.com.br/agar-tec-en.html"
+}
+
+@article{VivSpectra,
+author = {Sulu-Gambari, F. and Seitaj, D. and Behrens, T. and Banerjee, D. and Meyesman, F.J.R. and Slomp, C.P.},
+year = {2016},
+month = {11},
+pages = {},
+title = {Impact of Cable Bacteria on Sedimentary Iron and Manganese Dynamics in a Seasonally-Hypoxic Marine Basin},
+volume = {192},
+journal = {Geochemica et Cosmochimica Acta}
+}
+
+@misc{FDMNES,
+      author = "FDMNES",
+      title = "The FDMNES project website",
+      url = "http://neel.cnrs.fr/spip.php?rubrique1007&lang=en"
+}
+
+@misc{wikipedia,
+      author = "Wikipedia",
+      title = "X-ray absorption spectroscopy article on wikipedia",
+      url = "https://en.wikipedia.org/wiki/X-ray_absorption_spectroscopy"
+}
+
+
