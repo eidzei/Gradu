@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.29)  11 DEC 2018 15:31
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.29)  21 DEC 2018 12:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1400,179 +1400,15 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip69
 )
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.sty
-Package: biblatex 2011/11/13 v1.7 programmable bibliographies
-
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.sty
-Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count308
-
-(/usr/share/texlive/texmf-dist/tex/latex/logreq/logreq.def
-File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
-))
-\c@listtotal=\count309
-\c@listcount=\count310
-\c@liststart=\count311
-\c@liststop=\count312
-\c@citecount=\count313
-\c@citetotal=\count314
-\c@multicitecount=\count315
-\c@multicitetotal=\count316
-\c@instcount=\count317
-\c@maxnames=\count318
-\c@minnames=\count319
-\c@maxitems=\count320
-\c@minitems=\count321
-\c@citecounter=\count322
-\c@savedcitecounter=\count323
-\c@uniquelist=\count324
-\c@uniquename=\count325
-\c@refsection=\count326
-\c@refsegment=\count327
-\c@maxextrayear=\count328
-\c@maxextraalpha=\count329
-\c@abbrvpenalty=\count330
-\c@highnamepenalty=\count331
-\c@lownamepenalty=\count332
-\c@maxparens=\count333
-\c@parenlevel=\count334
-\blx@tempcnta=\count335
-\blx@tempcntb=\count336
-\blx@tempcntc=\count337
-\blx@maxsection=\count338
-\blx@maxsegment=\count339
-\blx@notetype=\count340
-\blx@parenlevel@text=\count341
-\blx@parenlevel@foot=\count342
-\labelnumberwidth=\skip70
-\labelalphawidth=\skip71
-\shorthandwidth=\skip72
-\biblabelsep=\skip73
-\bibitemsep=\skip74
-\bibnamesep=\skip75
-\bibinitsep=\skip76
-\bibparsep=\skip77
-\bibhang=\skip78
-\blx@auxin=\read3
-\blx@auxout=\write4
-\c@mincomprange=\count343
-\c@maxcomprange=\count344
-\c@mincompwidth=\count345
-\c@labelname=\count346
-\c@savedlabelname=\count347
-\c@author=\count348
-\c@savedauthor=\count349
-\c@shortauthor=\count350
-\c@savedshortauthor=\count351
-\c@editor=\count352
-\c@savededitor=\count353
-\c@editora=\count354
-\c@savededitora=\count355
-\c@editorb=\count356
-\c@savededitorb=\count357
-\c@editorc=\count358
-\c@savededitorc=\count359
-\c@shorteditor=\count360
-\c@savedshorteditor=\count361
-\c@bookauthor=\count362
-\c@savedbookauthor=\count363
-\c@translator=\count364
-\c@savedtranslator=\count365
-\c@annotator=\count366
-\c@savedannotator=\count367
-\c@commentator=\count368
-\c@savedcommentator=\count369
-\c@introduction=\count370
-\c@savedintroduction=\count371
-\c@foreword=\count372
-\c@savedforeword=\count373
-\c@afterword=\count374
-\c@savedafterword=\count375
-\c@holder=\count376
-\c@savedholder=\count377
-\c@namea=\count378
-\c@savednamea=\count379
-\c@nameb=\count380
-\c@savednameb=\count381
-\c@namec=\count382
-\c@savednamec=\count383
-\c@institution=\count384
-\c@savedinstitution=\count385
-\c@language=\count386
-\c@savedlanguage=\count387
-\c@location=\count388
-\c@savedlocation=\count389
-\c@organization=\count390
-\c@savedorganization=\count391
-\c@origlocation=\count392
-\c@savedoriglocation=\count393
-\c@origpublisher=\count394
-\c@savedorigpublisher=\count395
-\c@pageref=\count396
-\c@savedpageref=\count397
-\c@publisher=\count398
-\c@savedpublisher=\count399
-\c@lista=\count400
-\c@savedlista=\count401
-\c@listb=\count402
-\c@savedlistb=\count403
-\c@listc=\count404
-\c@savedlistc=\count405
-\c@listd=\count406
-\c@savedlistd=\count407
-\c@liste=\count408
-\c@savedliste=\count409
-\c@listf=\count410
-\c@savedlistf=\count411
-Package biblatex Info: Trying to load compatibility code...
-Package biblatex Info: ... file 'blx-compat.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/blx-compat.def
-File: blx-compat.def 2011/11/13 v1.7 biblatex generic compatibility
+(/usr/share/texlive/texmf-dist/tex/latex/placeins/placeins.sty
+Package: placeins 2005/04/18  v 2.2
 )
-Package biblatex Info: Trying to load generic definitions...
-Package biblatex Info: ... file 'biblatex.def' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.def
-File: biblatex.def 2011/11/13 v1.7 biblatex generic definitions
-\c@biburlnumpenalty=\count412
-\c@biburlucpenalty=\count413
-\c@biburllcpenalty=\count414
-\c@smartand=\count415
+(/usr/share/texlive/texmf-dist/tex/latex/appendix/appendix.sty
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count308
+\c@@ppsavesec=\count309
+\c@@ppsaveapp=\count310
 )
-Package biblatex Info: Trying to load bibliography style 'numeric'...
-Package biblatex Info: ... file 'numeric.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/numeric.bbx
-File: numeric.bbx 2011/11/13 v1.7 biblatex bibliography style
-Package biblatex Info: Trying to load bibliography style 'standard'...
-Package biblatex Info: ... file 'standard.bbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/bbx/standard.bbx
-File: standard.bbx 2011/11/13 v1.7 biblatex bibliography style
-))
-Package biblatex Info: Trying to load citation style 'numeric'...
-Package biblatex Info: ... file 'numeric.cbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/cbx/numeric.cbx
-File: numeric.cbx 2011/11/13 v1.7 biblatex citation style
-Package biblatex Info: Redefining '\cite'.
-Package biblatex Info: Redefining '\parencite'.
-Package biblatex Info: Redefining '\footcite'.
-Package biblatex Info: Redefining '\footcitetext'.
-Package biblatex Info: Redefining '\smartcite'.
-Package biblatex Info: Redefining '\textcite'.
-Package biblatex Info: Redefining '\supercite'.
-Package biblatex Info: Redefining '\cites'.
-Package biblatex Info: Redefining '\parencites'.
-Package biblatex Info: Redefining '\smartcites'.
-)
-Package biblatex Info: Trying to load configuration file...
-Package biblatex Info: ... file 'biblatex.cfg' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/biblatex.cfg
-File: biblatex.cfg 
-))
 (/usr/share/texlive/texmf-dist/tex/latex/chemmacros/ghsystem.sty
 Package: ghsystem 2012/05/18 v3.3b globally harmonised system
 
@@ -1582,16 +1418,16 @@ Package: tabu 2011/02/26 v2.8 - flexible LaTeX tabulars (FC)
 (/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
 Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \@vwid@box=\box59
-\sift@deathcycles=\count416
+\sift@deathcycles=\count311
 \@vwid@loff=\dimen312
 \@vwid@roff=\dimen313
 )
-\c@taburow=\count417
-\tabu@nbcols=\count418
-\tabu@cnt=\count419
-\tabu@Xcol=\count420
-\tabu@alloc=\count421
-\tabu@nested=\count422
+\c@taburow=\count312
+\tabu@nbcols=\count313
+\tabu@cnt=\count314
+\tabu@Xcol=\count315
+\tabu@alloc=\count316
+\tabu@nested=\count317
 \tabu@target=\dimen314
 \tabu@spreadtarget=\dimen315
 \tabu@naturalX=\dimen316
@@ -1607,24 +1443,24 @@ Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
 \tabu@arstrutbox=\box61
 \tabu@hleads=\box62
 \tabu@vleads=\box63
-\tabu@cellskip=\skip79
+\tabu@cellskip=\skip70
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/longtable.sty
 Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
-\LTleft=\skip80
-\LTright=\skip81
-\LTpre=\skip82
-\LTpost=\skip83
-\LTchunksize=\count423
+\LTleft=\skip71
+\LTright=\skip72
+\LTpre=\skip73
+\LTpost=\skip74
+\LTchunksize=\count318
 \LTcapwidth=\dimen323
 \LT@head=\box64
 \LT@firsthead=\box65
 \LT@foot=\box66
 \LT@lastfoot=\box67
-\LT@cols=\count424
-\LT@rows=\count425
-\c@LT@tables=\count426
-\c@LT@chunks=\count427
+\LT@cols=\count319
+\LT@rows=\count320
+\c@LT@tables=\count321
+\c@LT@chunks=\count322
 \LT@p@ftn=\toks41
 )
 \l_ghsystem_table_line_sep_dim=\dimen324
@@ -1649,54 +1485,42 @@ ef)
 ) (/usr/share/texlive/texmf-dist/tex/latex/tools/xspace.sty
 Package: xspace 2009/10/20 v1.13 Space after command names (DPC,MH)
 )
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2011/11/13 v1.7 biblatex localization
-)
-
-Package biblatex Warning: 'babel' detected but 'csquotes' missing.
-(biblatex)                Loading 'csquotes' recommended.
-
-\@quotelevel=\count428
-\@quotereset=\count429
 (./OllinTutk.aux)
 \openout1 = `OllinTutk.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 31.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 31.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 42.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 42.
  (/usr/share/texlive/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 31.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
-LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    ... okay on input line 42.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 42.
+LaTeX Font Info:    ... okay on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count430
+\scratchcounter=\count323
 \scratchdimen=\dimen325
 \scratchbox=\box68
-\nofMPsegments=\count431
-\nofMParguments=\count432
+\nofMPsegments=\count324
+\nofMParguments=\count325
 \everyMPshowfont=\toks42
-\MPscratchCnt=\count433
+\MPscratchCnt=\count326
 \MPscratchDim=\dimen326
-\MPnumerator=\count434
-\makeMPintoPDFobject=\count435
+\MPnumerator=\count327
+\makeMPintoPDFobject=\count328
 \everyMPtoPDFconversion=\toks43
 ) (/usr/share/texlive/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2010/02/09 v2.5 Base part for package epstopdf
@@ -1726,10 +1550,10 @@ File: siunitx-binary.cfg 2012/05/03 v2.5c siunitx: Binary units
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
-. Defining document command \NMR with arg. spec. 'sgd()o' on line 31.
+. Defining document command \NMR with arg. spec. 'sgd()o' on line 42.
 .................................................
 \AtBeginShipoutBox=\box69
-Package hyperref Info: Link coloring OFF on input line 31.
+Package hyperref Info: Link coloring OFF on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
@@ -1737,42 +1561,28 @@ Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count436
+\c@section@level=\count329
 )
-LaTeX Info: Redefining \ref on input line 31.
-LaTeX Info: Redefining \pageref on input line 31.
-LaTeX Info: Redefining \nameref on input line 31.
+LaTeX Info: Redefining \ref on input line 42.
+LaTeX Info: Redefining \pageref on input line 42.
+LaTeX Info: Redefining \nameref on input line 42.
 
 (./OllinTutk.out) (./OllinTutk.out)
-\@outlinefile=\write5
-\openout5 = `OllinTutk.out'.
+\@outlinefile=\write4
+\openout4 = `OllinTutk.out'.
 
-Package biblatex Info: Input encoding 'ansinew' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'ansinew'.
+\c_siunitx_mathsf_int=\count330
+LaTeX Font Info:    Try loading font information for U+msa on input line 42.
 
-
-Package biblatex Warning: Data encoding is 'ansinew'.
-(biblatex)                Use backend=bibtex8 or backend=biber.
-
-\openout4 = `OllinTutk-blx.bib'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'OllinTutk.bbl' not found.
-No file OllinTutk.bbl.
-Package biblatex Info: Reference section=0 on input line 31.
-Package biblatex Info: Reference segment=0 on input line 31.
-\c_siunitx_mathsf_int=\count437
-LaTeX Font Info:    Try loading font information for U+msa on input line 31.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2009/06/22 v3.00 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 31.
+LaTeX Font Info:    Try loading font information for U+msb on input line 42.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2009/06/22 v3.00 AMS symbols B
 )
-\c_siunitx_mathtt_int=\count438
+\c_siunitx_mathtt_int=\count331
  [1
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (./OllinTutk.tocpdfTeX war
@@ -1780,645 +1590,576 @@ ning (ext4): destination with the same identifier (name{page.1}) has been alrea
 dy used, duplicate ignored
 <to be read again> 
                    \relax 
-l.31 ...line {5}Sample Preparation}{32}{chapter.5}
+l.29 ....6}Background Noise}{36}{subsection.4.1.6}
                                                    [1
 
 ])
-\tf@toc=\write6
-\openout6 = `OllinTutk.toc'.
+\tf@toc=\write5
+\openout5 = `OllinTutk.toc'.
 
  [2]
 Chapter 1.
-<../Kuvat/sinileva.png, id=241, 670.505pt x 493.845pt>
+<../Kuvat/sinileva.png, id=287, 670.505pt x 493.845pt>
 File: ../Kuvat/sinileva.png Graphic file (type png)
 
 <use ../Kuvat/sinileva.png>
-Package pdftex.def Info: ../Kuvat/sinileva.png used on input line 45.
+Package pdftex.def Info: ../Kuvat/sinileva.png used on input line 56.
 (pdftex.def)             Requested size: 455.44142pt x 335.4409pt.
 
 
-LaTeX Warning: Citation 'ymparisto' on page 3 undefined on input line 46.
-
-
-LaTeX Warning: Citation 'ymparisto' on page 3 undefined on input line 46.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation 'helcom' on page 3 undefined on input line 50.
 
 [3
 
-] [4 <../Kuvat/sinileva.png>]
-
-LaTeX Warning: Citation 'samassa' on page 5 undefined on input line 56.
-
-[5]
+] [4 <../Kuvat/sinileva.png>] [5]
 Chapter 2.
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ch' on input line 61.
-
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ch' on input line 61.
-
-
-LaTeX Warning: Citation 'IronSpeciation' on page 6 undefined on input line 62.
-
-
-LaTeX Warning: Citation 'FeConcentration' on page 6 undefined on input line 62.
-
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 6 undefined on input line 62.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 6 undefined on input line 62.
-
-
-LaTeX Warning: Citation 'FeOxides' on page 6 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 6 undefined on input line 64.
-
-
-LaTeX Warning: Citation 'LigandExchange' on page 6 undefined on input line 66.
-
 [6
 
-]
+] [7]
 
-LaTeX Warning: Citation 'IronFlux' on page 7 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 7 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 7 undefined on input line 68.
-
-
-LaTeX Warning: Citation 'Agriculture' on page 7 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'Ellis1988' on page 7 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'YOUNG1985434' on page 7 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 7 undefined on input line 70.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 7 undefined on input line 86.
-
-[7]
-
-LaTeX Warning: Citation 'Fertilization' on page 8 undefined on input line 88.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 101.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ch' on input line 92.
+(hyperref)                removing `\ch' on input line 101.
 
-
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\ch' on input line 92.
-
-
-LaTeX Warning: Citation 'LabileCarbon' on page 8 undefined on input line 93.
-
-[8]
-
-LaTeX Warning: Citation 'SoilErosion' on page 9 undefined on input line 98.
-
-<../Kuvat/eutrophication_A.png, id=276, 739.76375pt x 827.09pt>
+[8] <../Kuvat/eutrophication_A.png, id=359, 739.76375pt x 827.09pt>
 File: ../Kuvat/eutrophication_A.png Graphic file (type png)
 
 <use ../Kuvat/eutrophication_A.png>
-Package pdftex.def Info: ../Kuvat/eutrophication_A.png used on input line 103.
+Package pdftex.def Info: ../Kuvat/eutrophication_A.png used on input line 112.
 (pdftex.def)             Requested size: 364.35452pt x 407.36pt.
 
 
-LaTeX Warning: Citation 'SoilErosion' on page 9 undefined on input line 104.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 9 undefined on input line 104.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Kuvat/eutrophication_B.png, id=278, 597.23125pt x 640.3925pt>
+<../Kuvat/eutrophication_B.png, id=363, 597.23125pt x 640.3925pt>
 File: ../Kuvat/eutrophication_B.png Graphic file (type png)
 
 <use ../Kuvat/eutrophication_B.png>
-Package pdftex.def Info: ../Kuvat/eutrophication_B.png used on input line 111.
+Package pdftex.def Info: ../Kuvat/eutrophication_B.png used on input line 120.
 (pdftex.def)             Requested size: 364.35452pt x 390.68771pt.
 
 
-LaTeX Warning: Citation 'SoilErosion' on page 9 undefined on input line 112.
-
-
-LaTeX Warning: Citation 'SoilErosion' on page 9 undefined on input line 112.
-
-
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[9] [10 <../Kuvat/eutrophication_A.png>]
-
-LaTeX Warning: Citation 'Vivianite' on page 11 undefined on input line 128.
-
-[11 <../Kuvat/eutrophication_B.png>]
-
-LaTeX Warning: Citation 'Burial' on page 12 undefined on input line 130.
-
-
-LaTeX Warning: Citation 'Diagenetic' on page 12 undefined on input line 130.
-
-
-LaTeX Warning: Citation 'JILBERT2013155' on page 12 undefined on input line 130
-.
-
-
-LaTeX Warning: Citation 'Vivianite' on page 12 undefined on input line 130.
-
-<../Kuvat/vivianiitti.png, id=296, 739.76375pt x 653.44125pt>
+[9] [10 <../Kuvat/eutrophication_A.png>] [11 <../Kuvat/eutrophication_B.png>]
+<../Kuvat/vivianiitti.png, id=390, 739.76375pt x 653.44125pt>
 File: ../Kuvat/vivianiitti.png Graphic file (type png)
 
 <use ../Kuvat/vivianiitti.png>
-Package pdftex.def Info: ../Kuvat/vivianiitti.png used on input line 134.
+Package pdftex.def Info: ../Kuvat/vivianiitti.png used on input line 143.
 (pdftex.def)             Requested size: 364.35452pt x 321.83418pt.
-
-
-LaTeX Warning: Citation 'Vivianite' on page 12 undefined on input line 135.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[12] [13 <../Kuvat/vivianiitti.png>]
+ [12 <../Kuvat/vivianiitti.png>] [13]
 Chapter 3.
-
-LaTeX Warning: Citation 'Fundamentals' on page 14 undefined on input line 150.
-
-
-LaTeX Warning: Citation 'Elements' on page 14 undefined on input line 154.
-
 [14
 
-]
-
-LaTeX Warning: Citation 'Elements' on page 15 undefined on input line 161.
-
-[15] <../Kuvat/XASFig.png, id=324, 181.15047pt x 130.87051pt>
+] [15] <../Kuvat/XASFig.png, id=428, 181.15047pt x 130.87051pt>
 File: ../Kuvat/XASFig.png Graphic file (type png)
 
 <use ../Kuvat/XASFig.png>
-Package pdftex.def Info: ../Kuvat/XASFig.png used on input line 197.
+Package pdftex.def Info: ../Kuvat/XASFig.png used on input line 208.
 (pdftex.def)             Requested size: 455.44142pt x 329.07451pt.
 
 
-LaTeX Warning: Citation 'wikipedia' on page 16 undefined on input line 198.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[16] <../Kuvat/absorption.png, id=438, 317.185pt x 332.24126pt>
+File: ../Kuvat/absorption.png Graphic file (type png)
+
+<use ../Kuvat/absorption.png>
+Package pdftex.def Info: ../Kuvat/absorption.png used on input line 243.
+(pdftex.def)             Requested size: 182.17378pt x 190.82431pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Kuvat/absorption1.png, id=326, 574.145pt x 399.4925pt>
-File: ../Kuvat/absorption1.png Graphic file (type png)
-
-<use ../Kuvat/absorption1.png>
-Package pdftex.def Info: ../Kuvat/absorption1.png used on input line 232.
-(pdftex.def)             Requested size: 364.35452pt x 253.52252pt.
-
-
-LaTeX Warning: Citation 'Fundamentals' on page 16 undefined on input line 233.
-
-[16]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/absorption2.png, id=336, 552.0625pt x 410.53375pt>
-File: ../Kuvat/absorption2.png Graphic file (type png)
-
-<use ../Kuvat/absorption2.png>
-Package pdftex.def Info: ../Kuvat/absorption2.png used on input line 241.
-(pdftex.def)             Requested size: 364.35452pt x 270.95937pt.
-
-
-LaTeX Warning: Citation 'Fundamentals' on page 17 undefined on input line 242.
-
-
-LaTeX Warning: Citation 'Fundamentals' on page 17 undefined on input line 242.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[17 <../Kuvat/XASFig.png (PNG copy)>]
-
-LaTeX Warning: Reference `fig:typicalxas' on page 18 undefined on input line 25
-1.
-
-[18 <../Kuvat/absorption1.png>] [19 <../Kuvat/absorption2.png>]
-<../Kuvat/XANESparts.png, id=365, 635.37375pt x 409.53pt>
+[17 <../Kuvat/XASFig.png (PNG copy)>] [18 <../Kuvat/absorption.png>]
+<../Kuvat/XANESparts.png, id=463, 635.37375pt x 409.53pt>
 File: ../Kuvat/XANESparts.png Graphic file (type png)
 
 <use ../Kuvat/XANESparts.png>
-Package pdftex.def Info: ../Kuvat/XANESparts.png used on input line 299.
+Package pdftex.def Info: ../Kuvat/XANESparts.png used on input line 334.
 (pdftex.def)             Requested size: 455.44142pt x 293.56158pt.
- [20 <../Kuvat/XANESparts.png>] [21]
-<../Kuvat/multiplescattering.png, id=380, 935.495pt x 196.735pt>
-File: ../Kuvat/multiplescattering.png Graphic file (type png)
-
-<use ../Kuvat/multiplescattering.png>
-Package pdftex.def Info: ../Kuvat/multiplescattering.png used on input line 327
-.
-(pdftex.def)             Requested size: 455.44142pt x 95.77957pt.
- [22 <../Kuvat/multiplescattering.png>]
-<../Kuvat/FeOxidation.png, id=385, 501.875pt x 295.1025pt>
-File: ../Kuvat/FeOxidation.png Graphic file (type png)
-
-<use ../Kuvat/FeOxidation.png>
-Package pdftex.def Info: ../Kuvat/FeOxidation.png used on input line 343.
-(pdftex.def)             Requested size: 455.44142pt x 267.81421pt.
 
 
-LaTeX Warning: Citation 'Fundamentals' on page 23 undefined on input line 344.
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-
-LaTeX Warning: Citation 'Fundamentals' on page 23 undefined on input line 344.
-
-<../Kuvat/pre-edge.png, id=389, 314.17375pt x 373.395pt>
+[19] [20 <../Kuvat/XANESparts.png>]
+<../Kuvat/pre-edge.png, id=486, 314.17375pt x 373.395pt>
 File: ../Kuvat/pre-edge.png Graphic file (type png)
 
 <use ../Kuvat/pre-edge.png>
-Package pdftex.def Info: ../Kuvat/pre-edge.png used on input line 355.
+Package pdftex.def Info: ../Kuvat/pre-edge.png used on input line 364.
 (pdftex.def)             Requested size: 273.26762pt x 324.79405pt.
- [23 <../Kuvat/FeOxidation.png>] [24 <../Kuvat/pre-edge.png>] [25] [26]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[21] [22 <../Kuvat/pre-edge.png>] [23]
+<../Kuvat/multiplescattering.png, id=524, 935.495pt x 196.735pt>
+File: ../Kuvat/multiplescattering.png Graphic file (type png)
+
+<use ../Kuvat/multiplescattering.png>
+Package pdftex.def Info: ../Kuvat/multiplescattering.png used on input line 424
+.
+(pdftex.def)             Requested size: 455.44142pt x 95.77957pt.
+ [24 <../Kuvat/multiplescattering.png>]
+<../Kuvat/FeOxidation.png, id=536, 501.875pt x 295.1025pt>
+File: ../Kuvat/FeOxidation.png Graphic file (type png)
+
+<use ../Kuvat/FeOxidation.png>
+Package pdftex.def Info: ../Kuvat/FeOxidation.png used on input line 440.
+(pdftex.def)             Requested size: 455.44142pt x 267.81421pt.
+ [25 <../Kuvat/FeOxidation.png>]
+<../Kuvat/whiteline.png, id=547, 363.3575pt x 236.885pt>
+File: ../Kuvat/whiteline.png Graphic file (type png)
+
+<use ../Kuvat/whiteline.png>
+Package pdftex.def Info: ../Kuvat/whiteline.png used on input line 452.
+(pdftex.def)             Requested size: 227.7207pt x 148.4612pt.
+ [26 <../Kuvat/whiteline.png>]
+<../Kuvat/absorption1.png, id=558, 574.145pt x 399.4925pt>
+File: ../Kuvat/absorption1.png Graphic file (type png)
+
+<use ../Kuvat/absorption1.png>
+Package pdftex.def Info: ../Kuvat/absorption1.png used on input line 469.
+(pdftex.def)             Requested size: 364.35452pt x 253.52252pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Kuvat/absorption2.png, id=563, 552.0625pt x 410.53375pt>
+File: ../Kuvat/absorption2.png Graphic file (type png)
+
+<use ../Kuvat/absorption2.png>
+Package pdftex.def Info: ../Kuvat/absorption2.png used on input line 478.
+(pdftex.def)             Requested size: 364.35452pt x 270.95937pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Kuvat/xastypical.png, id=567, 575.14874pt x 340.27126pt>
+File: ../Kuvat/xastypical.png Graphic file (type png)
+
+<use ../Kuvat/xastypical.png>
+Package pdftex.def Info: ../Kuvat/xastypical.png used on input line 492.
+(pdftex.def)             Requested size: 318.8076pt x 188.61913pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[27] [28 <../Kuvat/absorption1.png>] [29 <../Kuvat/absorption2.png>] [30 <../Ku
+vat/xastypical.png>] [31]
 Chapter 4.
-<../Kuvat/helxasSetup.png, id=410, 404.51125pt x 317.185pt>
+<../Kuvat/helxasSetup.png, id=603, 404.51125pt x 317.185pt>
 File: ../Kuvat/helxasSetup.png Graphic file (type png)
 
 <use ../Kuvat/helxasSetup.png>
-Package pdftex.def Info: ../Kuvat/helxasSetup.png used on input line 391.
+Package pdftex.def Info: ../Kuvat/helxasSetup.png used on input line 528.
 (pdftex.def)             Requested size: 364.35452pt x 285.70099pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[32
 
-LaTeX Warning: Citation 'AnalyzerCrystal' on page 27 undefined on input line 40
-2.
-
-[27
-
-] [28 <../Kuvat/helxasSetup.png>]
-<../Kuvat/cad_setup.png, id=423, 792.9625pt x 284.06125pt>
+] [33 <../Kuvat/helxasSetup.png>] [34]
+<../Kuvat/cad_setup.png, id=625, 792.9625pt x 284.06125pt>
 File: ../Kuvat/cad_setup.png Graphic file (type png)
 
 <use ../Kuvat/cad_setup.png>
-Package pdftex.def Info: ../Kuvat/cad_setup.png used on input line 431.
+Package pdftex.def Info: ../Kuvat/cad_setup.png used on input line 568.
 (pdftex.def)             Requested size: 455.44142pt x 163.15622pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[29] <../Kuvat/vaihtaja.png, id=432, 769.87625pt x 517.935pt>
+<../Kuvat/vaihtaja.png, id=627, 769.87625pt x 517.935pt>
 File: ../Kuvat/vaihtaja.png Graphic file (type png)
 
 <use ../Kuvat/vaihtaja.png>
-Package pdftex.def Info: ../Kuvat/vaihtaja.png used on input line 445.
-(pdftex.def)             Requested size: 364.35452pt x 245.12863pt.
+Package pdftex.def Info: ../Kuvat/vaihtaja.png used on input line 582.
+(pdftex.def)             Requested size: 318.8076pt x 214.48064pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[30 <../Kuvat/cad_setup.png>] [31 <../Kuvat/vaihtaja.png>]
+[35 <../Kuvat/cad_setup.png>] [36 <../Kuvat/vaihtaja.png>]
 Chapter 5.
-[32
+[37
 
-] <../Kuvat/JellyTest.png, id=451, 839.0547pt x 519.6213pt>
+] <../Kuvat/JellyTest.png, id=646, 839.0547pt x 519.6213pt>
 File: ../Kuvat/JellyTest.png Graphic file (type png)
 
 <use ../Kuvat/JellyTest.png>
-Package pdftex.def Info: ../Kuvat/JellyTest.png used on input line 480.
+Package pdftex.def Info: ../Kuvat/JellyTest.png used on input line 617.
 (pdftex.def)             Requested size: 455.44142pt x 282.05814pt.
- [33 <../Kuvat/JellyTest.png>] [34]
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38] <../Kuvat/kaappi.png, id=653, 894.06186pt x 1192.08247pt>
+File: ../Kuvat/kaappi.png Graphic file (type png)
+
+<use ../Kuvat/kaappi.png>
+Package pdftex.def Info: ../Kuvat/kaappi.png used on input line 627.
+(pdftex.def)             Requested size: 273.26762pt x 364.35768pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[39 <../Kuvat/JellyTest.png>] [40 <../Kuvat/kaappi.png (PNG copy)>] [41]
 Chapter 6.
-<../Kuvat/Dry_Soil_Samples1.png, id=463, 894.7026pt x 596.2275pt>
+[42
+
+] <../Kuvat/Dry_Soil_Samples1.png, id=686, 894.7026pt x 596.2275pt>
 File: ../Kuvat/Dry_Soil_Samples1.png Graphic file (type png)
 
 <use ../Kuvat/Dry_Soil_Samples1.png>
-Package pdftex.def Info: ../Kuvat/Dry_Soil_Samples1.png used on input line 512.
+Package pdftex.def Info: ../Kuvat/Dry_Soil_Samples1.png used on input line 684.
 
 (pdftex.def)             Requested size: 455.44142pt x 303.50795pt.
- [35
-
-] [36 <../Kuvat/Dry_Soil_Samples1.png>] <../Kuvat/dry_soil_samples_all.png, id=
-480, 990.8217pt x 621.522pt>
+ [43] [44 <../Kuvat/Dry_Soil_Samples1.png>] <../Kuvat/dry_soil_samples_all.png,
+ id=704, 990.8217pt x 621.522pt>
 File: ../Kuvat/dry_soil_samples_all.png Graphic file (type png)
 
 <use ../Kuvat/dry_soil_samples_all.png>
-Package pdftex.def Info: ../Kuvat/dry_soil_samples_all.png used on input line 5
-23.
+Package pdftex.def Info: ../Kuvat/dry_soil_samples_all.png used on input line 6
+95.
 (pdftex.def)             Requested size: 455.44142pt x 285.68547pt.
 
-<../Kuvat/Sulfideja/wet_noC.png, id=484, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/wet_noC.png, id=708, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/wet_noC.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/wet_noC.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/wet_noC.png used on input line 535.
+Package pdftex.def Info: ../Kuvat/Sulfideja/wet_noC.png used on input line 707.
 
-(pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/wetC.png, id=485, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/wetC.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/wetC.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/wetC.png used on input line 542.
-(pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/wetOthers.png, id=486, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/wetOthers.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/wetOthers.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/wetOthers.png used on input line 54
-9.
-(pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[37 <../Kuvat/dry_soil_samples_all.png>]
-<../Kuvat/Sulfideja/M1_Fe2O3.png, id=497, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/M1_Fe2O3.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/M1_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1_Fe2O3.png used on input line 562
-.
-(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
- [38 <../Kuvat/Sulfideja/wet_noC.png>]
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M2_Fe2O3.png, id=503, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/M2_Fe2O3.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/M2_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M2_Fe2O3.png used on input line 569
-.
-(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M3_Fe2O3.png, id=504, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/M3_Fe2O3.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/M3_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M3_Fe2O3.png used on input line 576
-.
-(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M4_Fe2O3.png, id=505, 1214.136pt x 655.4889pt>
+(pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
+ [45 <../Kuvat/dry_soil_samples_all.png>]
+[46 <../Kuvat/Sulfideja/wet_noC.png>]
+<../Kuvat/Sulfideja/M4_Fe2O3.png, id=729, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M4_Fe2O3.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M4_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M4_Fe2O3.png used on input line 583
+Package pdftex.def Info: ../Kuvat/Sulfideja/M4_Fe2O3.png used on input line 741
+.
+(pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
+
+<../Kuvat/mineral_spectra.png, id=732, 641.7576pt x 374.3586pt>
+File: ../Kuvat/mineral_spectra.png Graphic file (type png)
+
+<use ../Kuvat/mineral_spectra.png>
+Package pdftex.def Info: ../Kuvat/mineral_spectra.png used on input line 757.
+(pdftex.def)             Requested size: 364.35452pt x 212.5412pt.
+
+<../Kuvat/vivianiitti_spectra.png, id=735, 284.39583pt x 187.03209pt>
+File: ../Kuvat/vivianiitti_spectra.png Graphic file (type png)
+
+<use ../Kuvat/vivianiitti_spectra.png>
+Package pdftex.def Info: ../Kuvat/vivianiitti_spectra.png used on input line 76
+4.
+(pdftex.def)             Requested size: 364.35452pt x 239.63141pt.
+
+<../Kuvat/FePo.png, id=740, 180.675pt x 320.19624pt>
+File: ../Kuvat/FePo.png Graphic file (type png)
+ <use ../Kuvat/FePo.png>
+Package pdftex.def Info: ../Kuvat/FePo.png used on input line 774.
+(pdftex.def)             Requested size: 136.6338pt x 242.14487pt.
+
+[47] [48 <../Kuvat/Sulfideja/M4_Fe2O3.png>] [49 <../Kuvat/mineral_spectra.png> 
+<../Kuvat/vivianiitti_spectra.png>] [50 <../Kuvat/FePo.png>]
+<../Kuvat/Sulfideja/M4_cauchy.png, id=780, 1209.0771pt x 652.5981pt>
+File: ../Kuvat/Sulfideja/M4_cauchy.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M4_cauchy.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M4_cauchy.png used on input line 79
+9.
+(pdftex.def)             Requested size: 592.07523pt x 319.56674pt.
+ [51
+
+ <../Kuvat/Sulfideja/M4_cauchy.png>]
+<../Kuvat/Sulfideja/M5C0S1a.png, id=797, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/M5C0S1a.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M5C0S1a.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5C0S1a.png used on input line 833.
+
+(pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
+
+<../Kuvat/Sulfideja/M5C1S0b.png, id=798, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/M5C1S0b.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M5C1S0b.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5C1S0b.png used on input line 847.
+
+(pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52 <../Kuvat/Sulfideja/M5C0S1a.png>] [53 <../Kuvat/Sulfideja/M5C1S0b.png>]
+[54]
+Chapter 7.
+[55
+
+] [56]
+Chapter 8.
+(./OllinTutk.bbl [57
+
+]
+LaTeX Font Info:    Try loading font information for T1+cmtt on input line 7.
+ (/usr/share/texlive/texmf-dist/tex/latex/base/t1cmtt.fd
+File: t1cmtt.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+[58
+
+]
+Underfull \hbox (badness 4686) in paragraph at lines 114--119
+[]\T1/cmr/m/n/12 Newville Matthew.  Fun-da-men-tals of xafs.  []$\T1/cmtt/m/n/1
+2 https : / / web . archive . org /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--119
+\T1/cmtt/m/n/12 web / 20110722032112 / http : / / xafs . org / Tutorials ? acti
+on = AttachFile&do =
+ []
+
+[59]
+Underfull \hbox (badness 1383) in paragraph at lines 144--150
+\T1/cmr/m/n/12 June 2010.  []$\T1/cmtt/m/n/12 https : / / www-[]ssrl . slac . s
+tanford . edu / conferences / workshops /
+ []
+
+
+Underfull \hbox (badness 3471) in paragraph at lines 152--156
+[]\T1/cmr/m/n/12 J.E. Penner-Hahn.  X-ray ab-sorp-tion spec-troscopy - uni-ver-
+sity of michi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 158--164
+\T1/cmtt/m/n/12 system / files / sites / unl . edu . cas . physics . xiaoshan-[
+]xu / files / private /
+ []
+
+
+Underfull \hbox (badness 7486) in paragraph at lines 166--170
+[]\T1/cmr/m/n/12 Bruce Ravel.  A prac-ti-cal in-tro-duc-tion to mul-ti-ple scat
+-ter-ing the-ory,
+ []
+
+
+Underfull \hbox (badness 1418) in paragraph at lines 199--203
+[]\T1/cmr/m/n/12 FDMNES.  The fdmnes project web-site.  []$\T1/cmtt/m/n/12 http
+ : / / neel . cnrs . fr / spip . php ?
+ []
+
+[60]) [61] [62
+
+
+]
+Appendix A.
+<../Kuvat/Sulfideja/wetC.png, id=885, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/wetC.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/wetC.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/wetC.png used on input line 907.
+(pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
+
+<../Kuvat/Sulfideja/wetOthers.png, id=886, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/wetOthers.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/wetOthers.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/wetOthers.png used on input line 91
+4.
+(pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[63
+
+ <../Kuvat/Sulfideja/wetC.png>] [64 <../Kuvat/Sulfideja/wetOthers.png>]
+Appendix B.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 918.
+
+<../Kuvat/Sulfideja/M1_Fe2O3.png, id=897, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/M1_Fe2O3.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M1_Fe2O3.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1_Fe2O3.png used on input line 922
+.
+(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
+
+<../Kuvat/Sulfideja/M2_Fe2O3.png, id=898, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/M2_Fe2O3.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M2_Fe2O3.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M2_Fe2O3.png used on input line 929
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Kuvat/Sulfideja/M5_noC.png, id=506, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/M3_Fe2O3.png, id=899, 1214.136pt x 655.4889pt>
+File: ../Kuvat/Sulfideja/M3_Fe2O3.png Graphic file (type png)
+
+<use ../Kuvat/Sulfideja/M3_Fe2O3.png>
+Package pdftex.def Info: ../Kuvat/Sulfideja/M3_Fe2O3.png used on input line 936
+.
+(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<../Kuvat/Sulfideja/M5_noC.png, id=900, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M5_noC.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5_noC.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5_noC.png used on input line 590.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5_noC.png used on input line 950.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
+[65
 
-LaTeX Warning: Citation 'FDMNES' on page 39 undefined on input line 595.
+ <../Kuvat/Sulfideja/M1_Fe2O3.png>]
 
-<../Kuvat/mineral_spectra.png, id=508, 641.7576pt x 374.3586pt>
-File: ../Kuvat/mineral_spectra.png Graphic file (type png)
+LaTeX Warning: Text page 66 contains only floats.
 
-<use ../Kuvat/mineral_spectra.png>
-Package pdftex.def Info: ../Kuvat/mineral_spectra.png used on input line 599.
-(pdftex.def)             Requested size: 455.44142pt x 265.6765pt.
+[66 <../Kuvat/Sulfideja/M2_Fe2O3.png> <../Kuvat/Sulfideja/M3_Fe2O3.png>]
+[67 <../Kuvat/Sulfideja/M5_noC.png>]
+Appendix C.
 
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 955.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-LaTeX Warning: Citation 'VivSpectra' on page 39 undefined on input line 603.
-
-
-LaTeX Warning: Reference `' on page 39 undefined on input line 603.
-
-<../Kuvat/vivianiitti_spectra.png, id=509, 284.39583pt x 187.03209pt>
-File: ../Kuvat/vivianiitti_spectra.png Graphic file (type png)
-
-<use ../Kuvat/vivianiitti_spectra.png>
-Package pdftex.def Info: ../Kuvat/vivianiitti_spectra.png used on input line 60
-7.
-(pdftex.def)             Requested size: 455.44142pt x 299.54pt.
-
-
-LaTeX Warning: Citation 'VivSpectra' on page 39 undefined on input line 608.
-
-
-LaTeX Warning: Citation 'VivSpectra' on page 39 undefined on input line 608.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[39 <../Kuvat/Sulfideja/wetC.png>]
-<../Kuvat/Sulfideja/M1_cauchy.png, id=522, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/M1_cauchy.png, id=918, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M1_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1_cauchy.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1_cauchy.png used on input line 61
-7.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1_cauchy.png used on input line 95
+9.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M2_cauchy.png, id=523, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/M2_cauchy.png, id=919, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M2_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M2_cauchy.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M2_cauchy.png used on input line 62
-4.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M2_cauchy.png used on input line 96
+6.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M4_cauchy.png, id=524, 1209.0771pt x 652.5981pt>
-File: ../Kuvat/Sulfideja/M4_cauchy.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/M4_cauchy.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M4_cauchy.png used on input line 63
-1.
-(pdftex.def)             Requested size: 409.89449pt x 221.23315pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M5_cauchy.png, id=525, 1209.0771pt x 652.5981pt>
+<../Kuvat/Sulfideja/M5_cauchy.png, id=920, 1209.0771pt x 652.5981pt>
 File: ../Kuvat/Sulfideja/M5_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5_cauchy.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5_cauchy.png used on input line 63
-8.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5_cauchy.png used on input line 98
+0.
 (pdftex.def)             Requested size: 409.89449pt x 221.23315pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M3_alustava.png, id=527, 723.4227pt x 500.1084pt>
+<../Kuvat/Sulfideja/M3_alustava.png, id=921, 723.4227pt x 500.1084pt>
 File: ../Kuvat/Sulfideja/M3_alustava.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M3_alustava.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/M3_alustava.png used on input line 
-646.
-(pdftex.def)             Requested size: 455.44142pt x 314.8563pt.
+987.
+(pdftex.def)             Requested size: 364.35452pt x 251.88503pt.
+ [68
+
+ <../Kuvat/Sulfideja/M1_cauchy.png>]
+
+LaTeX Warning: Text page 69 contains only floats.
+
+[69 <../Kuvat/Sulfideja/M2_cauchy.png> <../Kuvat/Sulfideja/M5_cauchy.png>]
+[70 <../Kuvat/Sulfideja/M3_alustava.png>]
+Appendix D.
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 992.
 
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 992.
 
-[40 <../Kuvat/Sulfideja/wetOthers.png>]
 
-LaTeX Warning: Text page 41 contains only floats.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 992.
 
-[41 <../Kuvat/Sulfideja/M1_Fe2O3.png> <../Kuvat/Sulfideja/M2_Fe2O3.png>]
 
-LaTeX Warning: Text page 42 contains only floats.
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\ch' on input line 992.
 
-[42 <../Kuvat/Sulfideja/M3_Fe2O3.png> <../Kuvat/Sulfideja/M4_Fe2O3.png>]
-<../Kuvat/Sulfideja/M1C0S0b.png, id=560, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/M1C0S0b.png, id=938, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M1C0S0b.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1C0S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1C0S0b.png used on input line 659.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1C0S0b.png used on input line 995.
 
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M5C0S1a.png, id=561, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/M5C0S1a.png Graphic file (type png)
-
-<use ../Kuvat/Sulfideja/M5C0S1a.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5C0S1a.png used on input line 666.
-
-(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
-
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-<../Kuvat/Sulfideja/M1C1S0b.png, id=562, 1214.136pt x 655.4889pt>
+<../Kuvat/Sulfideja/M1C1S0b.png, id=939, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M1C1S0b.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1C1S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1C1S0b.png used on input line 673.
-
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1C1S0b.png used on input line 1002
+.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<../Kuvat/Sulfideja/M5C1S0b.png, id=563, 1214.136pt x 655.4889pt>
-File: ../Kuvat/Sulfideja/M5C1S0b.png Graphic file (type png)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1009.
+[71
 
-<use ../Kuvat/Sulfideja/M5C1S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5C1S0b.png used on input line 680.
+ <../Kuvat/Sulfideja/M1C0S0b.png>] [72 <../Kuvat/Sulfideja/M1C1S0b.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1009.
 
-(pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
+(./OllinTutk.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1009.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1009.
 
-
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-[43 <../Kuvat/Sulfideja/M5_noC.png>] [44 <../Kuvat/mineral_spectra.png>]
-[45 <../Kuvat/vivianiitti_spectra.png>] [46 <../Kuvat/Sulfideja/M1_cauchy.png> 
-<../Kuvat/Sulfideja/M2_cauchy.png>] [47 <../Kuvat/Sulfideja/M4_cauchy.png> <../
-Kuvat/Sulfideja/M5_cauchy.png>] [48 <../Kuvat/Sulfideja/M3_alustava.png>]
-[49 <../Kuvat/Sulfideja/M1C0S0b.png> <../Kuvat/Sulfideja/M5C0S1a.png>] [50 <../
-Kuvat/Sulfideja/M1C1S0b.png> <../Kuvat/Sulfideja/M5C1S0b.png>]
-Chapter 7.
-[51
-
-]
-
-LaTeX Warning: Empty bibliography on input line 700.
-
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 783.
-[52]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 783.
- (./OllinTutk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 783.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 783.
 Package rerunfilecheck Info: File `OllinTutk.out' has not changed.
-(rerunfilecheck)             Checksum: E0C9FCD926B5E09F00C332ECD545E5A2;2922.
-
-
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run BibTeX on the file(s):
-(biblatex)                OllinTutk
-(biblatex)                and rerun LaTeX afterwards.
-
-Package logreq Info: Writing requests to 'OllinTutk.run.xml'.
-\openout1 = `OllinTutk.run.xml'.
-
+(rerunfilecheck)             Checksum: 566B218AC3A90D7EBF5FD349162162B9;3709.
  ) 
 Here is how much of TeX's memory you used:
- 32219 strings out of 493481
- 642795 string characters out of 3143393
- 736332 words of memory out of 3000000
- 34784 multiletter control sequences out of 15000+200000
- 33585 words of font info for 99 fonts, out of 3000000 for 9000
+ 28257 strings out of 493481
+ 572610 string characters out of 3143393
+ 586273 words of memory out of 3000000
+ 30754 multiletter control sequences out of 15000+200000
+ 33898 words of font info for 100 fonts, out of 3000000 for 9000
  965 hyphenation exceptions out of 8191
- 70i,13n,59p,1401b,2115s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 70i,15n,59p,1403b,897s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/share/texmf/
 fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
-/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmmi8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.p
-fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-
-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type
-1/public/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sf
-bx1440.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/sha
-re/texmf/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1
-/public/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfr
-m1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/shar
-e/texmf/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/
-public/cm-super/sfti1200.pfb>
-Output written on OllinTutk.pdf (53 pages, 4038384 bytes).
+public/amsfonts/cm/cmbx8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfon
+ts/cm/cmmi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmmi6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.p
+fb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fo
+nts/type1/public/amsfonts/symbols/msam10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/symbols/msbm10.pfb></usr/share/texmf/fonts/type1/publi
+c/cm-super/sfbx1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1440.
+pfb></usr/share/texmf/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texm
+f/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public
+/cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.p
+fb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1440.pfb></usr/share/texmf
+/fonts/type1/public/cm-super/sfrm2074.pfb></usr/share/texmf/fonts/type1/public/
+cm-super/sfti1200.pfb></usr/share/texmf/fonts/type1/public/cm-super/sftt1200.pf
+b>
+Output written on OllinTutk.pdf (73 pages, 5452962 bytes).
 PDF statistics:
- 730 PDF objects out of 1000 (max. 8388607)
- 588 compressed objects within 6 object streams
- 155 named destinations out of 1000 (max. 500000)
- 537 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1085 PDF objects out of 1200 (max. 8388607)
+ 902 compressed objects within 10 object streams
+ 242 named destinations out of 1000 (max. 500000)
+ 634 words of extra memory for PDF output out of 10000 (max. 10000000)
 
