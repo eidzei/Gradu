@@ -6,45 +6,45 @@ Database file #1: luettelo.bib
 Warning--empty publisher in FeOxides
 Warning--empty publisher in Elements
 Warning--empty publisher in Data
-You've used 34 entries,
+You've used 35 entries,
             1791 wiz_defined-function locations,
-            663 strings with 10344 characters,
-and the built_in function-call counts, 6637 in all, are:
-= -- 516
-> -- 348
-< -- 4
-+ -- 132
-- -- 98
-* -- 419
-:= -- 1073
-add.period$ -- 102
-call.type$ -- 34
-change.case$ -- 30
+            669 strings with 10621 characters,
+and the built_in function-call counts, 7183 in all, are:
+= -- 577
+> -- 368
+< -- 5
++ -- 139
+- -- 104
+* -- 438
+:= -- 1131
+add.period$ -- 105
+call.type$ -- 35
+change.case$ -- 31
 chr.to.int$ -- 0
-cite$ -- 37
-duplicate$ -- 258
-empty$ -- 692
-format.name$ -- 98
-if$ -- 1466
+cite$ -- 38
+duplicate$ -- 300
+empty$ -- 725
+format.name$ -- 104
+if$ -- 1610
 int.to.chr$ -- 0
-int.to.str$ -- 34
-missing$ -- 24
-newline$ -- 173
-num.names$ -- 34
-pop$ -- 152
+int.to.str$ -- 35
+missing$ -- 25
+newline$ -- 178
+num.names$ -- 35
+pop$ -- 156
 preamble$ -- 1
 purify$ -- 0
 quote$ -- 0
-skip$ -- 116
+skip$ -- 166
 stack$ -- 0
-substring$ -- 311
-swap$ -- 42
-text.length$ -- 4
+substring$ -- 343
+swap$ -- 76
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 3
-while$ -- 51
-width$ -- 36
-write$ -- 349
+while$ -- 53
+width$ -- 37
+write$ -- 360
 (There were 3 warnings)

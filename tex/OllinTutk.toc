@@ -1,55 +1,54 @@
 \select@language {english}
-\contentsline {chapter}{\numberline {1}Eutrophication of the Baltic Sea and Erosion of Field Soil}{3}{chapter.1}
-\contentsline {chapter}{\numberline {2}Phosphorus in Iron Cycling in the Aquatic System }{6}{chapter.2}
-\contentsline {section}{\numberline {2.1}Soil as a Carrier of Iron and Phosphorus}{6}{section.2.1}
-\contentsline {section}{\numberline {2.2}Role of Sediment}{7}{section.2.2}
-\contentsline {section}{\numberline {2.3}Effect of \ch {C}/\ch {Fe} Ratio}{8}{section.2.3}
-\contentsline {section}{\numberline {2.4}Effect of Eroded Soil on Eutrophication}{9}{section.2.4}
-\contentsline {section}{\numberline {2.5}Vivianite}{11}{section.2.5}
-\contentsline {section}{\numberline {2.6}Sediment as a Research Interest}{13}{section.2.6}
-\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{14}{chapter.3}
-\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{14}{section.3.1}
-\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{17}{section.3.2}
-\contentsline {section}{\numberline {3.3}XANES}{19}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Wave Function Methods for Fermi's Golden Rule}{21}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Bound State transitions}{21}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Multiple Scattering Events}{23}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Oxidation Number}{24}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}White Line}{26}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Multi-Electron Transitions}{26}{subsection.3.3.6}
-\contentsline {section}{\numberline {3.4}EXAFS}{27}{section.3.4}
-\contentsline {section}{\numberline {3.5}Measuring the Transmission}{30}{section.3.5}
-\contentsline {chapter}{\numberline {4}HelXAS}{32}{chapter.4}
-\contentsline {section}{\numberline {4.1}Setup}{32}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}X-ray Source}{33}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Monochromators}{33}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Detectors}{34}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Motors and movements}{35}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Preparations for Anaerobic Samples}{35}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Background Noise}{36}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Measurement Procedure}{36}{subsection.4.1.7}
-\contentsline {chapter}{\numberline {5}Preparation of Soil and Brackish Water Samples}{37}{chapter.5}
-\contentsline {section}{\numberline {5.1}Reference Samples}{37}{section.5.1}
-\contentsline {section}{\numberline {5.2}Soil and Brackish Water Samples}{37}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{37}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Jellys}{37}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Anaerobic Jellys}{39}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}The Effects of Agar}{40}{subsection.5.2.4}
-\contentsline {chapter}{\numberline {6}Results and Discussion}{42}{chapter.6}
-\contentsline {section}{\numberline {6.1}Analysis}{42}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{42}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Curve Fitting to Reference Samples and Measurements}{42}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Measurement results}{44}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Dry Soil Samples}{44}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Wet Samples After 24 Hours}{45}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Anaerobic Wet Samples}{47}{subsection.6.2.3}
-\contentsline {subsubsection}{Samples with no added \ch {C}}{47}{section*.2}
-\contentsline {subsubsection}{Samples with added \ch {C}}{51}{section*.3}
-\contentsline {subsubsection}{Samples with no \ch {S} and with no \ch {S} or \ch {C}}{52}{section*.4}
+\contentsline {chapter}{\numberline {1}Eutrophication of the Baltic Sea and Erosion of Field Soil}{4}{chapter.1}
+\contentsline {chapter}{\numberline {2}Phosphorus in Iron Cycling in the Aquatic System }{7}{chapter.2}
+\contentsline {section}{\numberline {2.1}Soil as a Carrier of Iron and Phosphorus}{7}{section.2.1}
+\contentsline {section}{\numberline {2.2}Role of Sediment}{8}{section.2.2}
+\contentsline {section}{\numberline {2.3}Effect of \ch {C}/\ch {Fe} Ratio}{9}{section.2.3}
+\contentsline {section}{\numberline {2.4}Effect of Eroded Soil on Eutrophication}{10}{section.2.4}
+\contentsline {section}{\numberline {2.5}Vivianite}{12}{section.2.5}
+\contentsline {section}{\numberline {2.6}Sediment as a Research Interest}{14}{section.2.6}
+\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{15}{chapter.3}
+\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{15}{section.3.1}
+\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{18}{section.3.2}
+\contentsline {section}{\numberline {3.3}XANES}{20}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Wave Function Methods for Fermi's Golden Rule}{22}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Bound State transitions}{22}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Multiple Scattering Events}{24}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Oxidation Number}{26}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}White Line}{27}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Multi-Electron Transitions}{28}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}EXAFS}{28}{section.3.4}
+\contentsline {section}{\numberline {3.5}Measuring the Transmission}{31}{section.3.5}
+\contentsline {chapter}{\numberline {4}Spectrometer}{33}{chapter.4}
+\contentsline {section}{\numberline {4.1}Setup}{33}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}X-ray Source}{34}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Monochromators}{34}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Detectors}{35}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Motors and movements}{36}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Preparations for Anaerobic Samples}{36}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Background Noise}{37}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Measurement Procedure}{37}{subsection.4.1.7}
+\contentsline {chapter}{\numberline {5}Preparation of Soil and Brackish Water Samples}{38}{chapter.5}
+\contentsline {section}{\numberline {5.1}Reference Samples}{38}{section.5.1}
+\contentsline {section}{\numberline {5.2}Soil and Brackish Water Samples}{38}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{38}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Soil and Brackish Water Jellys}{38}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Anaerobic Soil and Brackish Water Jellys}{40}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}The Effects of Agar}{41}{subsection.5.2.4}
+\contentsline {chapter}{\numberline {6}Results and Discussion}{43}{chapter.6}
+\contentsline {section}{\numberline {6.1}Analysis}{43}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{43}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Curve Fitting to Reference Samples and Measurements}{43}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Measurement results}{45}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Dry Soil Samples}{45}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Wet Samples After 24 Hours}{46}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Anaerobic Wet Samples}{48}{subsection.6.2.3}
+\contentsline {subsubsection}{Samples with no added \ch {C}}{48}{section*.3}
+\contentsline {subsubsection}{Samples with added \ch {C}}{51}{section*.4}
+\contentsline {subsubsection}{Samples with no \ch {S}}{52}{section*.5}
 \contentsline {subsection}{\numberline {6.2.4}Chemical Change in Soils after Different Treatments}{54}{subsection.6.2.4}
-\contentsline {chapter}{\numberline {7}Conclusion}{55}{chapter.7}
-\contentsline {chapter}{\numberline {8}Acknowledgements}{57}{chapter.8}
-\contentsline {chapter}{Appendices}{62}{section*.6}
+\contentsline {chapter}{\numberline {7}Conclusion}{56}{chapter.7}
+\contentsline {chapter}{Appendices}{62}{section*.7}
 \contentsline {chapter}{\numberline {A}Wet Samples After 24 hours}{63}{Appendix.1.A}
 \contentsline {chapter}{\numberline {B}Anaerobic Samples With No Added \ch {C}}{65}{Appendix.1.B}
 \contentsline {chapter}{\numberline {C}Anaerobic Samples With Added \ch {C}}{68}{Appendix.1.C}
