@@ -1,6 +1,6 @@
 @misc{helcom,
       author = "Baltic marine environment protection commission website",
-      title = "Nutrient inputs to the Baltic sea",
+      title = "Nutrient inputs to the {B}altic sea",
       note   = "\url{http://www.helcom.fi/baltic-sea-trends/eutrophication/inputs-of-nutrients/}, visited 10.12.2018"
 }
 
@@ -23,10 +23,10 @@
 
 @article{IronSpeciation,
       author = {Prietzel, J\"org and Thieme, Juergen and Eusterhues, Karin and Eichert, D},
-      year = {2007},
-      month = {10},
+      year = 2007,
+      month = Oct,
       pages = {1027 - 1041},
-      title = {Iron speciation in soils and soil aggregates by synchrotron-based X-ray microspectroscopy (XANES, micro-XANES)},
+      title = {Iron speciation in soils and soil aggregates by synchrotron-based {X}-ray microspectroscopy ({XANES}, micro-{XANES})},
       volume = {58},
       journal = {European Journal of Soil Science},
 doi = {10.1111/j.1365-2389.2006.00882.x}
@@ -43,8 +43,8 @@ doi = {10.1111/j.1365-2389.2006.00882.x}
 
 @article{SoilErosion,
       author = {Ekholm, Petri and Lehtoranta, Jouni},
-      year = {2012},
-      month = {01},
+      year = 2012,
+      month = Jan,
       pages = {140-6},
       title = {Does control of soil erosion inhibit aquatic eutrophication?},
       volume = {93},
@@ -54,8 +54,8 @@ doi = {10.1016/j.jenvman.2011.09.010}
 
 @book{FeOxides,
       author = {M. S. U. Cornell, R and Schwertmann, U},
-      year = {2003},
-      month = {01},
+      year = 2003,
+      month = Jan,
       pages = {},
       title = {The Iron Oxides: Structure, Properties, Reactions, Occurrences, And Uses},
       volume = {34},
@@ -65,8 +65,8 @@ doi = {10.1016/j.jenvman.2011.09.010}
 
 @article{LigandExchange,
 author = {Borggaard, Ole and Szilas, Casper and Gimsing, Anne and Rasmussen, Lars},
-year = {2004},
-month = {01},
+year = 2004,
+month = Jan,
 pages = {55-61},
 title = {Estimation of soil phosphate adsorption capacity by means of a pedotransfer function},
 volume = {118},
@@ -76,10 +76,10 @@ doi = {10.1016/S0016-7061(03)00183-6}
 
 @article{IronFlux,
 author = {Poulton, S.W. and Raiswell, Rob},
-year = {2002},
-month = {11},
+year = 2002,
+month = Nov,
 pages = {},
-title = {The low-temperature geochemical cycle of iron: From continental fluxes to marine sediment deposition},
+title = {The low-temperature geochemical cycle of iron: {F}rom continental fluxes to marine sediment deposition},
 volume = {302},
 journal = {American Journal of Science},
 doi = {10.2475/ajs.302.9.774}
@@ -87,10 +87,10 @@ doi = {10.2475/ajs.302.9.774}
 
 @article{Agriculture,
 author = {Ul\'{e}n, Barbro and Bechmann, Marianne and F\"olster, Jens and Jarvie, Helen and Tunney, Hubert},
-year = {2007},
-month = {08},
+year = 2007,
+month = Aug,
 pages = {5 - 15},
-title = {Agriculture as a phosphorus source for eutrophication in the north-west European countries, Norway, Sweden, United Kingdom and Ireland: A review},
+title = {Agriculture as a phosphorus source for eutrophication in the north-west {E}uropean countries, {N}orway, {S}weden, {U}nited {K}ingdom and {I}reland: A review},
 volume = {23},
 journal = {Soil Use and Management},
 doi = {10.1111/j.1475-2743.2007.00115.x}
@@ -153,8 +153,8 @@ pages="263--273"
 
 @article{Burial,
 author = {D. Ingall, Ellery and Bustin, R.M. and Van Cappellen, Philippe},
-year = {1993},
-month = {01},
+year = 1993,
+month = Jan,
 pages = {303-316},
 title = {Influence of water column anoxia on the burial and preservation of carbon and phosphorus in marine shales},
 volume = {57},
@@ -164,17 +164,17 @@ doi = {10.1016/0016-7037(93)90433-W}
 
 @article{Diagenetic,
 author = {M{\"a}rz, Christian and Hoffmann, J and Bleil, U and de Lange, Gert and Kasten, Sabine},
-year = {2008},
-month = {12},
+year = 2008,
+month = Dec,
 pages = {118-130},
-title = {Diagenetic changes of magnetic and geochemical signals by anaerobic methane oxidation in sediments of the Zambezi dee-sea fan (SW Indian Ocean)},
+title = {Diagenetic changes of magnetic and geochemical signals by anaerobic methane oxidation in sediments of the {Z}ambezi dee-sea fan (SW Indian Ocean)},
 volume = {255},
 journal = {Marine Geology},
 doi = {10.1016/j.margeo.2008.05.013}
 }
 
 @article{JILBERT2013155,
-title = "Iron and manganese shuttles control the formation of authigenic phosphorus minerals in the euxinic basins of the Baltic Sea",
+title = "Iron and manganese shuttles control the formation of authigenic phosphorus minerals in the euxinic basins of the {B}altic Sea",
 journal = "Geochimica et Cosmochimica Acta",
 volume = "107",
 pages = "155 - 169",
@@ -187,10 +187,10 @@ author = "Tom Jilbert and Caroline P. Slomp"
 
 @article{Vivianite,
 author = {Reed, Daniel and G. Gustafsson, Bo and Slomp, C.P.},
-year = {2015},
-month = {12},
+year = 2015,
+month = Dec,
 pages = {},
-title = {Shelf-to-basin iron shuttling enhances vivianite formation in deep Baltic Sea sediments},
+title = {Shelf-to-basin iron shuttling enhances vivianite formation in deep {B}altic Sea sediments},
 volume = {434},
 journal = {Earth and Planetary Science Letters},
 doi = {10.1016/j.epsl.2015.11.033}
@@ -210,9 +210,9 @@ DOI = {10.5194/bg-15-1243-2018}
 
 @book{Elements,
 author = {Als-Nielsen, J},
-year = {2002},
-month = {01},
-title = {Elements of Modern X-Ray Physics},
+year = 2002,
+month = Jan,
+title = {Elements of Modern {X}-Ray Physics},
 volume = {55},
 journal = {Physics Today - PHYS TODAY},
 doi = {10.1002/9781119998365}
@@ -220,10 +220,10 @@ doi = {10.1002/9781119998365}
 
 @article{AnalyzerCrystal,
 author = {Llorens, Isabelle and Lahera, Eric and Delnet, William and Proux, Olivier and Braillard, Aur\'{e}lien and Hazemann, Jean-Louis and Prat, Alain and Testemale, Denis and Dermigny, Quentin and Gelebart, Frederic and Morand, Marc and Shukla, Abhay and Bardou, Nathalie and Ulrich, O and Arnaud, St\'{e}phan and Berar, Jean and Boudet, Nathalie and Caillot, Bernard and Chaurand, Perrine and Lorenzo Solari, Pier},
-year = {2012},
-month = {06},
+year = 2012,
+month = Jun,
 pages = {063104},
-title = {High energy resolution five-crystal spectrometer for high quality fluorescence and absorption measurements on an X-ray Absorption Spectroscopy beamline},
+title = {High energy resolution five-crystal spectrometer for high quality fluorescence and absorption measurements on an {X}-ray Absorption Spectroscopy beamline},
 volume = {83},
 journal = {The Review of scientific instruments},
 doi = {10.1063/1.4728414}
@@ -231,10 +231,10 @@ doi = {10.1063/1.4728414}
 
 @article{OpticAlignment,
 author = {Mortensen, Devon and Seidler, Gerald},
-year = {2016},
-month = {11},
+year = 2016,
+month = Nov,
 pages = {},
-title = {Robust optic alignment in a tilt-free implementation of the Rowland circle spectrometer},
+title = {Robust optic alignment in a tilt-free implementation of the {R}owland circle spectrometer},
 volume = {215},
 journal = {Journal of Electron Spectroscopy and Related Phenomena},
 doi = {10.1016/j.elspec.2016.11.006}
@@ -248,7 +248,7 @@ doi = {10.1016/j.elspec.2016.11.006}
 
 @misc{Hahn,
      author = "Penner-Hahn, J.E.",
-     title = "X-ray Absorption Spectroscopy - University of Michigan",
+     title = "X-ray Absorption Spectroscopy - {U}niversity of {M}ichigan",
      note   = "\url{http://www.umich.edu/~jphgroup/XAS_Course/Harbin/CCC2_XAS.pdf}, visited 10.12.2018"
 }
 
@@ -263,7 +263,7 @@ doi = {10.1016/j.elspec.2016.11.006}
      author = "Ritimukta Sarangi",
      title = "{SSRL, SLAC Standford University, SRXAS Workshop lecture notes: Introduction to X-ray Absorption Near Edge Spectroscopy (XANES)}",
      year = "2010",
-     month = "June",
+     month = "Jun",
      note   = "\url{https://www-ssrl.slac.stanford.edu/conferences/workshops/srxas2011/presentations/sarangi_xanes_2011.pdf}, visited 10.12.2018"
 }
 
@@ -276,7 +276,7 @@ doi = {10.1016/j.elspec.2016.11.006}
 
 @misc{Xas,
      author = "Sinha, K.K.",
-     title = "Department of Physics and Astronomy, University of Nebraska-Lincoln, Lecture notes: X-ray Absorption Spectroscopy",
+     title = "Department of Physics and Astronomy, {U}niversity of {N}ebraska-{L}incoln, Lecture notes: X-ray Absorption Spectroscopy",
      note   = "\url{https://xiaoshanxu.unl.edu/system/files/sites/unl.edu.cas.physics.xiaoshan-xu/files/private/2014_02_07_XAS_Kishan.pdf}, visited 3.4.2018"
 }
 
@@ -294,16 +294,16 @@ doi = {10.1016/j.elspec.2016.11.006}
 
 @book{Data,
 author = {S Sivia, D and Skilling, J},
-year = {2006},
-month = {01},
+year = 2006,
+month = Jan,
 pages = {},
 title = {Data Analysis A Bayesian Tutorial}
 }
 
 @article{VivSpectra,
 author = {Sulu-Gambari, F. and Seitaj, D. and Behrens, T. and Banerjee, D. and Meyesman, F.J.R. and Slomp, C.P.},
-year = {2016},
-month = {11},
+year = 2016,
+month = Nov,
 pages = {},
 title = {Impact of Cable Bacteria on Sedimentary Iron and Manganese Dynamics in a Seasonally-Hypoxic Marine Basin},
 volume = {192},
@@ -312,7 +312,7 @@ journal = {Geochemica et Cosmochimica Acta}
 
 @misc{FDMNES,
       author = "FDMNES",
-      title = "The FDMNES project website",
+      title = "The {FDMNES} project website",
       note   = "\url{http://neel.cnrs.fr/spip.php?rubrique1007&lang=en}, visited 7.8.2018"
 }
 
@@ -345,7 +345,7 @@ abstract = "Sorption of phosphate by Fe(III)- and Al(III)-(hydr)oxide minerals r
 @ARTICLE{Spektrometri,
        author = {{Honkanen}, Ari-Pekka and {Ollikkala}, Sami and {Ahopelto}, Taru and
         {Kallio}, Antti-Jussi and {Blomberg}, Merja and {Huotari}, Simo},
-        title = "{Johann-type laboratory-scale X-ray absorption spectrometer with versatile detection modes}",
+        title = "{Johann-type laboratory-scale {X}-ray absorption spectrometer with versatile detection modes}",
       journal = {arXiv e-prints},
      keywords = {Physics - Instrumentation and Detectors},
          year = 2018,
@@ -357,5 +357,20 @@ archivePrefix = {arXiv},
  primaryClass = {physics.ins-det},
        adsurl = {https://ui.adsabs.harvard.edu/\#abs/2018arXiv181201075H},
       adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+@article{SARANGI2013459,
+title = "X-ray absorption near-edge spectroscopy in bioinorganic chemistry: Application to {M}–{O}2 systems",
+journal = "Coordination Chemistry Reviews",
+volume = "257",
+number = "2",
+pages = "459 - 472",
+year = "2013",
+note = "A Tribute to Edward I. Solomon on his 65th Birthday: Part 2",
+issn = "0010-8545",
+doi = "https://doi.org/10.1016/j.ccr.2012.06.024",
+url = "http://www.sciencedirect.com/science/article/pii/S0010854512001762",
+author = "Ritimukta Sarangi",
+keywords = "X-ray absorption spectroscopy, Metal K-edge, Electronic structure, Bioinorganic chemistry, Transition metal–dioxygen complexes",
+abstract = "Metal K-edge X-ray absorption spectroscopy (XAS) has been extensively applied to bioinorganic chemistry to obtain geometric structure information on metalloprotein and biomimetic model complex active sites by analyzing the higher energy extended X-ray absorption fine structure (EXAFS) region of the spectrum. In recent years, focus has been on developing methodologies to interpret the lower energy K-pre-edge and rising-edge regions (XANES) and using it for electronic structure determination in complex bioinorganic systems. In this review, the evolution and progress of 3d-transition metal K-pre-edge and rising-edge methodology development is presented with particular focus on applications to bioinorganic systems. Applications to biomimetic transition metal–O2 intermediates (M=Fe, Co, Ni and Cu) are reviewed, which demonstrate the power of the method as an electronic structure determination technique and its impact in understanding the role of supporting ligands in tuning the electronic configuration of transition metal–O2 systems."
 }
 
