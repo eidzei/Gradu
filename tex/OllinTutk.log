@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.29)  21 JAN 2019 17:40
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (TeX Live 2012/Debian) (format=pdflatex 2013.4.29)  21 JAN 2019 18:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1650,7 +1650,7 @@ Package pdftex.def Info: ../Kuvat/eutrophication_B.png used on input line 132.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [10] [11 <../Kuvat/eutrophication_A.png>] [12 <../Kuvat/eutrophication_B.png>]
-<../Kuvat/vivianiitti.png, id=385, 364.36125pt x 877.2775pt>
+<../Kuvat/vivianiitti.png, id=383, 364.36125pt x 877.2775pt>
 File: ../Kuvat/vivianiitti.png Graphic file (type png)
 
 <use ../Kuvat/vivianiitti.png>
@@ -1668,7 +1668,7 @@ Chapter 3.
 File: ../Kuvat/XASFig.png Graphic file (type png)
 
 <use ../Kuvat/XASFig.png>
-Package pdftex.def Info: ../Kuvat/XASFig.png used on input line 220.
+Package pdftex.def Info: ../Kuvat/XASFig.png used on input line 221.
 (pdftex.def)             Requested size: 455.44142pt x 329.07451pt.
 
 
@@ -1678,7 +1678,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/absorption.png Graphic file (type png)
 
 <use ../Kuvat/absorption.png>
-Package pdftex.def Info: ../Kuvat/absorption.png used on input line 255.
+Package pdftex.def Info: ../Kuvat/absorption.png used on input line 256.
 (pdftex.def)             Requested size: 182.17378pt x 190.82431pt.
 
 
@@ -1689,7 +1689,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/XANESparts.png Graphic file (type png)
 
 <use ../Kuvat/XANESparts.png>
-Package pdftex.def Info: ../Kuvat/XANESparts.png used on input line 347.
+Package pdftex.def Info: ../Kuvat/XANESparts.png used on input line 348.
 (pdftex.def)             Requested size: 455.44142pt x 293.56158pt.
 
 
@@ -1700,7 +1700,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/pre-edge.png Graphic file (type png)
 
 <use ../Kuvat/pre-edge.png>
-Package pdftex.def Info: ../Kuvat/pre-edge.png used on input line 377.
+Package pdftex.def Info: ../Kuvat/pre-edge.png used on input line 378.
 (pdftex.def)             Requested size: 273.26762pt x 324.79405pt.
 
 
@@ -1710,7 +1710,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/1s_4p.png Graphic file (type png)
 
 <use ../Kuvat/1s_4p.png>
-Package pdftex.def Info: ../Kuvat/1s_4p.png used on input line 389.
+Package pdftex.def Info: ../Kuvat/1s_4p.png used on input line 390.
 (pdftex.def)             Requested size: 364.35452pt x 277.3795pt.
 
 
@@ -1721,7 +1721,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/multiplescattering.png Graphic file (type png)
 
 <use ../Kuvat/multiplescattering.png>
-Package pdftex.def Info: ../Kuvat/multiplescattering.png used on input line 446
+Package pdftex.def Info: ../Kuvat/multiplescattering.png used on input line 447
 .
 (pdftex.def)             Requested size: 455.44142pt x 95.77957pt.
 
@@ -1732,7 +1732,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/FeOxidation.png Graphic file (type png)
 
 <use ../Kuvat/FeOxidation.png>
-Package pdftex.def Info: ../Kuvat/FeOxidation.png used on input line 462.
+Package pdftex.def Info: ../Kuvat/FeOxidation.png used on input line 463.
 (pdftex.def)             Requested size: 455.44142pt x 267.81421pt.
 
 
@@ -1743,7 +1743,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/whiteline.png Graphic file (type png)
 
 <use ../Kuvat/whiteline.png>
-Package pdftex.def Info: ../Kuvat/whiteline.png used on input line 474.
+Package pdftex.def Info: ../Kuvat/whiteline.png used on input line 475.
 (pdftex.def)             Requested size: 227.7207pt x 148.4612pt.
 
 
@@ -1754,7 +1754,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/absorption1.png Graphic file (type png)
 
 <use ../Kuvat/absorption1.png>
-Package pdftex.def Info: ../Kuvat/absorption1.png used on input line 490.
+Package pdftex.def Info: ../Kuvat/absorption1.png used on input line 491.
 (pdftex.def)             Requested size: 364.35452pt x 253.52252pt.
 
 
@@ -1764,7 +1764,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/absorption2.png Graphic file (type png)
 
 <use ../Kuvat/absorption2.png>
-Package pdftex.def Info: ../Kuvat/absorption2.png used on input line 498.
+Package pdftex.def Info: ../Kuvat/absorption2.png used on input line 499.
 (pdftex.def)             Requested size: 364.35452pt x 270.95937pt.
  [29 <../Kuvat/whiteline.png>]
 
@@ -1774,7 +1774,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/xastypical.png Graphic file (type png)
 
 <use ../Kuvat/xastypical.png>
-Package pdftex.def Info: ../Kuvat/xastypical.png used on input line 518.
+Package pdftex.def Info: ../Kuvat/xastypical.png used on input line 519.
 (pdftex.def)             Requested size: 318.8076pt x 188.61913pt.
  [30 <../Kuvat/absorption1.png>]
 
@@ -1786,7 +1786,7 @@ Chapter 4.
 File: ../Kuvat/helxasSetup.png Graphic file (type png)
 
 <use ../Kuvat/helxasSetup.png>
-Package pdftex.def Info: ../Kuvat/helxasSetup.png used on input line 552.
+Package pdftex.def Info: ../Kuvat/helxasSetup.png used on input line 553.
 (pdftex.def)             Requested size: 364.35452pt x 285.70099pt.
 
 
@@ -1799,14 +1799,14 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/cad_setup.png Graphic file (type png)
 
 <use ../Kuvat/cad_setup.png>
-Package pdftex.def Info: ../Kuvat/cad_setup.png used on input line 592.
+Package pdftex.def Info: ../Kuvat/cad_setup.png used on input line 593.
 (pdftex.def)             Requested size: 455.44142pt x 163.15622pt.
 
 <../Kuvat/vaihtaja.png, id=640, 769.87625pt x 517.935pt>
 File: ../Kuvat/vaihtaja.png Graphic file (type png)
 
 <use ../Kuvat/vaihtaja.png>
-Package pdftex.def Info: ../Kuvat/vaihtaja.png used on input line 606.
+Package pdftex.def Info: ../Kuvat/vaihtaja.png used on input line 607.
 (pdftex.def)             Requested size: 318.8076pt x 214.48064pt.
 
 
@@ -1820,7 +1820,7 @@ Chapter 5.
 File: ../Kuvat/JellyTest.png Graphic file (type png)
 
 <use ../Kuvat/JellyTest.png>
-Package pdftex.def Info: ../Kuvat/JellyTest.png used on input line 641.
+Package pdftex.def Info: ../Kuvat/JellyTest.png used on input line 642.
 (pdftex.def)             Requested size: 455.44142pt x 282.05814pt.
 
 
@@ -1830,7 +1830,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/kaappi.png Graphic file (type png)
 
 <use ../Kuvat/kaappi.png>
-Package pdftex.def Info: ../Kuvat/kaappi.png used on input line 651.
+Package pdftex.def Info: ../Kuvat/kaappi.png used on input line 652.
 (pdftex.def)             Requested size: 273.26762pt x 364.35768pt.
 
 
@@ -1844,7 +1844,7 @@ Chapter 6.
 File: ../Kuvat/Dry_Soil_Samples1.png Graphic file (type png)
 
 <use ../Kuvat/Dry_Soil_Samples1.png>
-Package pdftex.def Info: ../Kuvat/Dry_Soil_Samples1.png used on input line 709.
+Package pdftex.def Info: ../Kuvat/Dry_Soil_Samples1.png used on input line 710.
 
 (pdftex.def)             Requested size: 455.44142pt x 303.50795pt.
  [45] [46 <../Kuvat/Dry_Soil_Samples1.png>] <../Kuvat/dry_soil_samples_all.png,
@@ -1853,18 +1853,18 @@ File: ../Kuvat/dry_soil_samples_all.png Graphic file (type png)
 
 <use ../Kuvat/dry_soil_samples_all.png>
 Package pdftex.def Info: ../Kuvat/dry_soil_samples_all.png used on input line 7
-20.
+21.
 (pdftex.def)             Requested size: 455.44142pt x 285.68547pt.
  [47 <../Kuvat/dry_soil_samples_all.png>]
 
 LaTeX Warning: No positions in optional float specifier.
-               Default added (so using `tbp') on input line 728.
+               Default added (so using `tbp') on input line 729.
 
 <../Kuvat/Sulfideja/wetC2.png, id=731, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/wetC2.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/wetC2.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/wetC2.png used on input line 747.
+Package pdftex.def Info: ../Kuvat/Sulfideja/wetC2.png used on input line 748.
 (pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
 
 
@@ -1875,7 +1875,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/Sulfideja/M4_Fe2O3.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M4_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M4_Fe2O3.png used on input line 781
+Package pdftex.def Info: ../Kuvat/Sulfideja/M4_Fe2O3.png used on input line 782
 .
 (pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
 
@@ -1883,7 +1883,7 @@ Package pdftex.def Info: ../Kuvat/Sulfideja/M4_Fe2O3.png used on input line 781
 File: ../Kuvat/mineral_spectra.png Graphic file (type png)
 
 <use ../Kuvat/mineral_spectra.png>
-Package pdftex.def Info: ../Kuvat/mineral_spectra.png used on input line 797.
+Package pdftex.def Info: ../Kuvat/mineral_spectra.png used on input line 798.
 (pdftex.def)             Requested size: 364.35452pt x 212.5412pt.
 
 <../Kuvat/vivianiitti_spectra.png, id=759, 284.39583pt x 187.03209pt>
@@ -1891,7 +1891,7 @@ File: ../Kuvat/vivianiitti_spectra.png Graphic file (type png)
 
 <use ../Kuvat/vivianiitti_spectra.png>
 Package pdftex.def Info: ../Kuvat/vivianiitti_spectra.png used on input line 80
-4.
+5.
 (pdftex.def)             Requested size: 364.35452pt x 239.63141pt.
  [50 <../Kuvat/Sulfideja/M4_Fe2O3.png>]
 
@@ -1901,22 +1901,22 @@ LaTeX Warning: Text page 51 contains only floats.
 <../Kuvat/FePo.png, id=782, 180.675pt x 320.19624pt>
 File: ../Kuvat/FePo.png Graphic file (type png)
  <use ../Kuvat/FePo.png>
-Package pdftex.def Info: ../Kuvat/FePo.png used on input line 814.
+Package pdftex.def Info: ../Kuvat/FePo.png used on input line 815.
 (pdftex.def)             Requested size: 136.6338pt x 242.14487pt.
 
 <../Kuvat/Sulfideja/M4_cauchy.png, id=789, 1209.0771pt x 652.5981pt>
 File: ../Kuvat/Sulfideja/M4_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M4_cauchy.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M4_cauchy.png used on input line 83
-9.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M4_cauchy.png used on input line 84
+0.
 (pdftex.def)             Requested size: 592.07523pt x 319.56674pt.
  [52 <../Kuvat/FePo.png>]
 <../Kuvat/Sulfideja/M5C0S1a.png, id=806, 1214.136pt x 655.4889pt>
 File: ../Kuvat/Sulfideja/M5C0S1a.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5C0S1a.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5C0S1a.png used on input line 873.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5C0S1a.png used on input line 874.
 
 (pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
 
@@ -1927,7 +1927,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/Sulfideja/M5C1S0b.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5C1S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5C1S0b.png used on input line 887.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5C1S0b.png used on input line 888.
 
 (pdftex.def)             Requested size: 592.07523pt x 319.65207pt.
 
@@ -1994,7 +1994,7 @@ Appendix A.
 File: ../Kuvat/Sulfideja/wet_noC.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/wet_noC.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/wet_noC.png used on input line 945.
+Package pdftex.def Info: ../Kuvat/Sulfideja/wet_noC.png used on input line 946.
 
 (pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
 
@@ -2003,7 +2003,7 @@ File: ../Kuvat/Sulfideja/wetOthers.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/wetOthers.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/wetOthers.png used on input line 95
-2.
+3.
 (pdftex.def)             Requested size: 455.44142pt x 245.87775pt.
 
 
@@ -2017,7 +2017,7 @@ Appendix B.
 File: ../Kuvat/Sulfideja/M1_Fe2O3.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1_Fe2O3.png used on input line 960
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1_Fe2O3.png used on input line 961
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
@@ -2025,7 +2025,7 @@ Package pdftex.def Info: ../Kuvat/Sulfideja/M1_Fe2O3.png used on input line 960
 File: ../Kuvat/Sulfideja/M2_Fe2O3.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M2_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M2_Fe2O3.png used on input line 967
+Package pdftex.def Info: ../Kuvat/Sulfideja/M2_Fe2O3.png used on input line 968
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
@@ -2036,7 +2036,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/Sulfideja/M3_Fe2O3.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M3_Fe2O3.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M3_Fe2O3.png used on input line 974
+Package pdftex.def Info: ../Kuvat/Sulfideja/M3_Fe2O3.png used on input line 975
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
@@ -2047,7 +2047,7 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 File: ../Kuvat/Sulfideja/M5_noC.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5_noC.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M5_noC.png used on input line 988.
+Package pdftex.def Info: ../Kuvat/Sulfideja/M5_noC.png used on input line 989.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 
@@ -2067,7 +2067,7 @@ File: ../Kuvat/Sulfideja/M1_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1_cauchy.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/M1_cauchy.png used on input line 99
-7.
+8.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 <../Kuvat/Sulfideja/M2_cauchy.png, id=931, 1214.136pt x 655.4889pt>
@@ -2075,7 +2075,7 @@ File: ../Kuvat/Sulfideja/M2_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M2_cauchy.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/M2_cauchy.png used on input line 10
-04.
+05.
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 <../Kuvat/Sulfideja/M5_cauchy.png, id=932, 1209.0771pt x 652.5981pt>
@@ -2083,7 +2083,7 @@ File: ../Kuvat/Sulfideja/M5_cauchy.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M5_cauchy.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/M5_cauchy.png used on input line 10
-18.
+19.
 (pdftex.def)             Requested size: 409.89449pt x 221.23315pt.
 
 <../Kuvat/Sulfideja/M3_alustava.png, id=933, 723.4227pt x 500.1084pt>
@@ -2091,7 +2091,7 @@ File: ../Kuvat/Sulfideja/M3_alustava.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M3_alustava.png>
 Package pdftex.def Info: ../Kuvat/Sulfideja/M3_alustava.png used on input line 
-1025.
+1026.
 (pdftex.def)             Requested size: 364.35452pt x 251.88503pt.
  [69
 
@@ -2106,7 +2106,7 @@ Appendix D.
 File: ../Kuvat/Sulfideja/M1C0S0b.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1C0S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1C0S0b.png used on input line 1033
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1C0S0b.png used on input line 1034
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
@@ -2114,22 +2114,22 @@ Package pdftex.def Info: ../Kuvat/Sulfideja/M1C0S0b.png used on input line 1033
 File: ../Kuvat/Sulfideja/M1C1S0b.png Graphic file (type png)
 
 <use ../Kuvat/Sulfideja/M1C1S0b.png>
-Package pdftex.def Info: ../Kuvat/Sulfideja/M1C1S0b.png used on input line 1040
+Package pdftex.def Info: ../Kuvat/Sulfideja/M1C1S0b.png used on input line 1041
 .
 (pdftex.def)             Requested size: 409.89449pt x 221.29297pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1047.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1048.
 [72
 
  <../Kuvat/Sulfideja/M1C0S0b.png>] [73 <../Kuvat/Sulfideja/M1C1S0b.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1047.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1048.
 
 (./OllinTutk.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1047.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1047.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1048.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1048.
 
 Package rerunfilecheck Info: File `OllinTutk.out' has not changed.
 (rerunfilecheck)             Checksum: 824660B3A82DC9A937D68A6FA060D445;3691.
@@ -2162,7 +2162,7 @@ f/fonts/type1/public/cm-super/sfbx2488.pfb></usr/share/texmf/fonts/type1/public
 /cm-super/sfrm0800.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.p
 fb></usr/share/texmf/fonts/type1/public/cm-super/sfti1200.pfb></usr/share/texmf
 /fonts/type1/public/cm-super/sftt1200.pfb>
-Output written on OllinTutk.pdf (73 pages, 5554681 bytes).
+Output written on OllinTutk.pdf (73 pages, 5554760 bytes).
 PDF statistics:
  1092 PDF objects out of 1200 (max. 8388607)
  906 compressed objects within 10 object streams
