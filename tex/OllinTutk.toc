@@ -6,50 +6,50 @@
 \contentsline {section}{\numberline {2.3}Effect of \ch {C}/\ch {Fe} Ratio}{9}{section.2.3}
 \contentsline {section}{\numberline {2.4}Effect of Eroded Soil on Eutrophication}{10}{section.2.4}
 \contentsline {section}{\numberline {2.5}Vivianite}{12}{section.2.5}
-\contentsline {section}{\numberline {2.6}Sediment as a Research Interest}{14}{section.2.6}
-\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{15}{chapter.3}
-\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{15}{section.3.1}
-\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{18}{section.3.2}
-\contentsline {section}{\numberline {3.3}XANES}{20}{section.3.3}
-\contentsline {subsection}{\numberline {3.3.1}Wave Function Methods for Fermi's Golden Rule}{22}{subsection.3.3.1}
-\contentsline {subsection}{\numberline {3.3.2}Bound State transitions}{22}{subsection.3.3.2}
-\contentsline {subsection}{\numberline {3.3.3}Multiple Scattering Events}{24}{subsection.3.3.3}
-\contentsline {subsection}{\numberline {3.3.4}Oxidation Number}{26}{subsection.3.3.4}
-\contentsline {subsection}{\numberline {3.3.5}White Line}{27}{subsection.3.3.5}
-\contentsline {subsection}{\numberline {3.3.6}Multi-Electron Transitions}{28}{subsection.3.3.6}
-\contentsline {section}{\numberline {3.4}EXAFS}{28}{section.3.4}
-\contentsline {section}{\numberline {3.5}Measuring the Transmission}{31}{section.3.5}
-\contentsline {chapter}{\numberline {4}Spectrometer}{33}{chapter.4}
-\contentsline {section}{\numberline {4.1}Setup}{33}{section.4.1}
-\contentsline {subsection}{\numberline {4.1.1}X-ray Source}{34}{subsection.4.1.1}
-\contentsline {subsection}{\numberline {4.1.2}Monochromators}{34}{subsection.4.1.2}
-\contentsline {subsection}{\numberline {4.1.3}Detectors}{35}{subsection.4.1.3}
-\contentsline {subsection}{\numberline {4.1.4}Motors and movements}{36}{subsection.4.1.4}
-\contentsline {subsection}{\numberline {4.1.5}Preparations for Anaerobic Samples}{36}{subsection.4.1.5}
-\contentsline {subsection}{\numberline {4.1.6}Background Noise}{37}{subsection.4.1.6}
-\contentsline {subsection}{\numberline {4.1.7}Measurement Procedure}{37}{subsection.4.1.7}
-\contentsline {chapter}{\numberline {5}Preparation of Soil and Brackish Water Samples}{38}{chapter.5}
-\contentsline {section}{\numberline {5.1}Reference Samples}{38}{section.5.1}
-\contentsline {section}{\numberline {5.2}Soil and Brackish Water Samples}{38}{section.5.2}
-\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{38}{subsection.5.2.1}
-\contentsline {subsection}{\numberline {5.2.2}Soil and Brackish Water Jellys}{38}{subsection.5.2.2}
-\contentsline {subsection}{\numberline {5.2.3}Anaerobic Soil and Brackish Water Jellys}{40}{subsection.5.2.3}
-\contentsline {subsection}{\numberline {5.2.4}The Effects of Agar}{41}{subsection.5.2.4}
-\contentsline {chapter}{\numberline {6}Results and Discussion}{43}{chapter.6}
-\contentsline {section}{\numberline {6.1}Analysis}{43}{section.6.1}
-\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{43}{subsection.6.1.1}
-\contentsline {subsection}{\numberline {6.1.2}Curve Fitting to Reference Samples and Measurements}{43}{subsection.6.1.2}
-\contentsline {section}{\numberline {6.2}Measurement results}{45}{section.6.2}
-\contentsline {subsection}{\numberline {6.2.1}Dry Soil Samples}{45}{subsection.6.2.1}
-\contentsline {subsection}{\numberline {6.2.2}Wet Samples After 24 Hours}{46}{subsection.6.2.2}
-\contentsline {subsection}{\numberline {6.2.3}Anaerobic Wet Samples}{48}{subsection.6.2.3}
-\contentsline {subsubsection}{Samples with no added Carbon}{48}{section*.3}
-\contentsline {subsubsection}{Samples with added Carbon}{51}{section*.4}
-\contentsline {subsubsection}{Samples with no added Sulfates}{52}{section*.5}
-\contentsline {subsection}{\numberline {6.2.4}Chemical Change in Soils after Different Treatments}{54}{subsection.6.2.4}
-\contentsline {chapter}{\numberline {7}Conclusion}{56}{chapter.7}
-\contentsline {chapter}{Appendices}{62}{section*.7}
-\contentsline {chapter}{\numberline {A}Wet Samples After 24 hours}{63}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Anaerobic Samples With No Added Carbon}{65}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Anaerobic Samples With Added Carbon}{68}{Appendix.1.C}
-\contentsline {chapter}{\numberline {D}Anaerobic Samples With No added Sulfates}{71}{Appendix.1.D}
+\contentsline {section}{\numberline {2.6}Sediment as a Research Interest}{15}{section.2.6}
+\contentsline {chapter}{\numberline {3}X-ray Absorption Spectroscopy}{16}{chapter.3}
+\contentsline {section}{\numberline {3.1}X-ray Absorption and Fluorescence}{16}{section.3.1}
+\contentsline {section}{\numberline {3.2}Theoretical Description of XAS}{19}{section.3.2}
+\contentsline {section}{\numberline {3.3}XANES}{21}{section.3.3}
+\contentsline {subsection}{\numberline {3.3.1}Wave Function Methods for Fermi's Golden Rule}{23}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {3.3.2}Bound State transitions}{23}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {3.3.3}Multiple Scattering Events}{25}{subsection.3.3.3}
+\contentsline {subsection}{\numberline {3.3.4}Oxidation Number}{27}{subsection.3.3.4}
+\contentsline {subsection}{\numberline {3.3.5}White Line}{28}{subsection.3.3.5}
+\contentsline {subsection}{\numberline {3.3.6}Multi-Electron Transitions}{29}{subsection.3.3.6}
+\contentsline {section}{\numberline {3.4}EXAFS}{29}{section.3.4}
+\contentsline {section}{\numberline {3.5}Measuring the Transmission}{32}{section.3.5}
+\contentsline {chapter}{\numberline {4}Spectrometer}{34}{chapter.4}
+\contentsline {section}{\numberline {4.1}Setup}{34}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}X-ray Source}{35}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Monochromators}{35}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Detectors}{36}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Motors and movements}{37}{subsection.4.1.4}
+\contentsline {subsection}{\numberline {4.1.5}Preparations for Anaerobic Samples}{37}{subsection.4.1.5}
+\contentsline {subsection}{\numberline {4.1.6}Background Noise}{38}{subsection.4.1.6}
+\contentsline {subsection}{\numberline {4.1.7}Measurement Procedure}{38}{subsection.4.1.7}
+\contentsline {chapter}{\numberline {5}Preparation of Soil and Brackish Water Samples}{39}{chapter.5}
+\contentsline {section}{\numberline {5.1}Reference Samples}{39}{section.5.1}
+\contentsline {section}{\numberline {5.2}Soil and Brackish Water Samples}{39}{section.5.2}
+\contentsline {subsection}{\numberline {5.2.1}Soil Samples}{39}{subsection.5.2.1}
+\contentsline {subsection}{\numberline {5.2.2}Soil and Brackish Water Jellys}{39}{subsection.5.2.2}
+\contentsline {subsection}{\numberline {5.2.3}Anaerobic Soil and Brackish Water Jellys}{41}{subsection.5.2.3}
+\contentsline {subsection}{\numberline {5.2.4}The Effects of Agar}{42}{subsection.5.2.4}
+\contentsline {chapter}{\numberline {6}Results and Discussion}{44}{chapter.6}
+\contentsline {section}{\numberline {6.1}Analysis}{44}{section.6.1}
+\contentsline {subsection}{\numberline {6.1.1}Data Reduction}{44}{subsection.6.1.1}
+\contentsline {subsection}{\numberline {6.1.2}Curve Fitting to Reference Samples and Measurements}{44}{subsection.6.1.2}
+\contentsline {section}{\numberline {6.2}Measurement results}{46}{section.6.2}
+\contentsline {subsection}{\numberline {6.2.1}Dry Soil Samples}{46}{subsection.6.2.1}
+\contentsline {subsection}{\numberline {6.2.2}Wet Samples After 24 Hours}{47}{subsection.6.2.2}
+\contentsline {subsection}{\numberline {6.2.3}Anaerobic Wet Samples}{49}{subsection.6.2.3}
+\contentsline {subsubsection}{Samples with no added Carbon}{49}{section*.3}
+\contentsline {subsubsection}{Samples with added Carbon}{52}{section*.4}
+\contentsline {subsubsection}{Samples with no added Sulfates}{53}{section*.5}
+\contentsline {subsection}{\numberline {6.2.4}Chemical Change in Soils after Different Treatments}{55}{subsection.6.2.4}
+\contentsline {chapter}{\numberline {7}Conclusion}{57}{chapter.7}
+\contentsline {chapter}{Appendices}{63}{section*.7}
+\contentsline {chapter}{\numberline {A}Wet Samples After 24 hours}{64}{Appendix.1.A}
+\contentsline {chapter}{\numberline {B}Anaerobic Samples With No Added Carbon}{66}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Anaerobic Samples With Added Carbon}{69}{Appendix.1.C}
+\contentsline {chapter}{\numberline {D}Anaerobic Samples With No added Sulfates}{72}{Appendix.1.D}
