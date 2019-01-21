@@ -43,13 +43,13 @@
 \contentsline {subsection}{\numberline {6.2.1}Dry Soil Samples}{45}{subsection.6.2.1}
 \contentsline {subsection}{\numberline {6.2.2}Wet Samples After 24 Hours}{46}{subsection.6.2.2}
 \contentsline {subsection}{\numberline {6.2.3}Anaerobic Wet Samples}{48}{subsection.6.2.3}
-\contentsline {subsubsection}{Samples with no added \ch {C}}{48}{section*.3}
-\contentsline {subsubsection}{Samples with added \ch {C}}{51}{section*.4}
-\contentsline {subsubsection}{Samples with no \ch {S}}{52}{section*.5}
+\contentsline {subsubsection}{Samples with no added Carbon}{48}{section*.3}
+\contentsline {subsubsection}{Samples with added Carbon}{51}{section*.4}
+\contentsline {subsubsection}{Samples with no added Sulfates}{52}{section*.5}
 \contentsline {subsection}{\numberline {6.2.4}Chemical Change in Soils after Different Treatments}{54}{subsection.6.2.4}
 \contentsline {chapter}{\numberline {7}Conclusion}{56}{chapter.7}
 \contentsline {chapter}{Appendices}{62}{section*.7}
 \contentsline {chapter}{\numberline {A}Wet Samples After 24 hours}{63}{Appendix.1.A}
-\contentsline {chapter}{\numberline {B}Anaerobic Samples With No Added \ch {C}}{65}{Appendix.1.B}
-\contentsline {chapter}{\numberline {C}Anaerobic Samples With Added \ch {C}}{68}{Appendix.1.C}
-\contentsline {chapter}{\numberline {D}Anaerobic Samples With No Added \ch {C} and No \ch {S} and Samples with \ch {C} and No \ch {S}}{71}{Appendix.1.D}
+\contentsline {chapter}{\numberline {B}Anaerobic Samples With No Added Carbon}{65}{Appendix.1.B}
+\contentsline {chapter}{\numberline {C}Anaerobic Samples With Added Carbon}{68}{Appendix.1.C}
+\contentsline {chapter}{\numberline {D}Anaerobic Samples With No added Sulfates}{71}{Appendix.1.D}
